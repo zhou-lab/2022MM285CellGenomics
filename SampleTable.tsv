@@ -1,0 +1,1120 @@
+IDAT	Additional_Sample_Information	Experimental_Group	Species	ProbeSuccessRate	Mouse_Age_Months	Mouse_Age_Days	Tissue	Sex	Genotype_Dnmt1	Tumor_vs_Normal	GSM
+204875570020_R01C01	NA	Backcross	Mouse	0.987	NA	NA	Tail	Male	WT	Normal	GSM5587220
+204875570043_R04C02	NA	Backcross	Mouse	0.983	NA	NA	Tail	Male	WT	Normal	GSM5587221
+204875570043_R06C02	NA	Backcross	Mouse	0.982	NA	NA	Tail	Male	WT	Normal	GSM5587222
+204875570046_R04C01	NA	Backcross	Mouse	0.987	NA	NA	Tail	Male	WT	Normal	GSM5587223
+204875570046_R06C01	NA	Backcross	Mouse	0.976	NA	NA	Tail	Female	WT	Normal	GSM5587224
+204879580026_R01C01	F1	Backcross	Mouse	0.975	4	49	Tail	Male	WT	Normal	GSM5587225
+204879580029_R03C01	N1	Backcross	Mouse	0.963	NA	NA	Tail	Female	LO/+	Normal	GSM5587226
+204879580029_R06C02	N3	Backcross	Mouse	0.971	NA	NA	Tail	Male	LO/+	Normal	GSM5587227
+204879580031_R03C02	N5	Backcross	Mouse	0.966	NA	NA	Tail	Female	LO/+	Normal	GSM5587228
+204879580034_R06C02	N8	Backcross	Mouse	0.951	NA	NA	Tail	Female	NA	Normal	GSM5587229
+204879580035_R01C02	N9	Backcross	Mouse	0.962	NA	NA	Tail	Female	NA	Normal	GSM5587230
+204879580035_R06C02	N10	Backcross	Mouse	0.969	NA	NA	Tail	Female	WT	Normal	GSM5587231
+204617710015_R01C01	0% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.965	NA	NA	NA	Male	NA	NA	GSM5587118
+204617710015_R01C02	5% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.963	NA	NA	NA	Female	NA	NA	GSM5587119
+204617710015_R02C01	50% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.953	NA	NA	NA	Female	NA	NA	GSM5587120
+204617710015_R02C02	10% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.961	NA	NA	NA	Female	NA	NA	GSM5587121
+204617710015_R03C01	100% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.960	NA	NA	NA	Female	NA	NA	GSM5587122
+204617710015_R03C02	25% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.961	NA	NA	NA	Female	NA	NA	GSM5587123
+204617710015_R04C01	0% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.960	NA	NA	NA	Male	NA	NA	GSM5587124
+204617710015_R04C02	75% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.967	NA	NA	NA	Female	NA	NA	GSM5587125
+204617710015_R05C01	50% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.947	NA	NA	NA	Female	NA	NA	GSM5587126
+204617710015_R06C01	100% Methylated Genomic DNA	DNA Methylation Titration	Mouse	0.961	NA	NA	NA	Female	NA	NA	GSM5587128
+204875570020_R02C02	NA	Dnmt1 Manipulation	Mouse	0.975	6	184	Cecum	Female	R/+	NA	GSM5587232
+204875570025_R04C01	NA	Dnmt1 Manipulation	Mouse	0.975	6	186	Cecum	Female	N/R	NA	GSM5587233
+204875570033_R01C02	NA	Dnmt1 Manipulation	Mouse	0.976	5	155	Cecum	Male	N/R	NA	GSM5587234
+204875570044_R01C02	NA	Dnmt1 Manipulation	Mouse	0.971	6	202	Cecum	Female	WT	NA	GSM5587235
+204875570053_R05C02	NA	Dnmt1 Manipulation	Mouse	0.967	6	186	Cecum	Female	N/+	NA	GSM5587236
+204875570058_R03C01	NA	Dnmt1 Manipulation	Mouse	0.976	5	155	Cecum	Male	R/+	NA	GSM5587237
+204875570062_R05C02	NA	Dnmt1 Manipulation	Mouse	0.975	5	161	Cecum	Male	N/+	NA	GSM5587238
+204875570020_R03C02	C1	Dnmt1 Manipulation	Mouse	0.975	6	184	Colon	Female	R/+	NA	GSM5587239
+204875570020_R04C02	C2	Dnmt1 Manipulation	Mouse	0.976	6	184	Colon	Female	R/+	NA	GSM5587240
+204875570020_R05C02	C3	Dnmt1 Manipulation	Mouse	0.975	6	184	Colon	Female	R/+	NA	GSM5587241
+204875570025_R01C02	C3	Dnmt1 Manipulation	Mouse	0.976	6	186	Colon	Female	N/+	NA	GSM5587242
+204875570025_R05C01	C1	Dnmt1 Manipulation	Mouse	0.976	6	186	Colon	Female	N/+	NA	GSM5587243
+204875570025_R06C01	C2	Dnmt1 Manipulation	Mouse	0.975	6	186	Colon	Female	N/+	NA	GSM5587244
+204875570033_R02C02	C1	Dnmt1 Manipulation	Mouse	0.977	5	155	Colon	Male	N/R	NA	GSM5587245
+204875570033_R03C02	C2	Dnmt1 Manipulation	Mouse	0.970	5	155	Colon	Male	N/R	NA	GSM5587246
+204875570033_R04C02	C3	Dnmt1 Manipulation	Mouse	0.975	5	155	Colon	Male	N/R	NA	GSM5587247
+204875570044_R02C02	C1	Dnmt1 Manipulation	Mouse	0.970	6	202	Colon	Female	WT	NA	GSM5587248
+204875570044_R03C02	C2	Dnmt1 Manipulation	Mouse	0.962	6	202	Colon	Female	WT	NA	GSM5587249
+204875570044_R04C02	C3	Dnmt1 Manipulation	Mouse	0.966	6	202	Colon	Female	WT	NA	GSM5587250
+204875570053_R06C02	C1	Dnmt1 Manipulation	Mouse	0.965	6	186	Colon	Female	N/R	NA	GSM5587251
+204875570058_R04C01	C1	Dnmt1 Manipulation	Mouse	0.978	5	155	Colon	Male	R/+	NA	GSM5587252
+204875570058_R05C01	C2	Dnmt1 Manipulation	Mouse	0.969	5	155	Colon	Male	R/+	NA	GSM5587253
+204875570058_R06C01	C3	Dnmt1 Manipulation	Mouse	0.975	5	155	Colon	Male	R/+	NA	GSM5587254
+204875570062_R06C02	C1	Dnmt1 Manipulation	Mouse	0.979	5	161	Colon	Male	N/+	NA	GSM5587255
+204875570063_R01C01	C2	Dnmt1 Manipulation	Mouse	0.958	6	186	Colon	Female	N/R	NA	GSM5587256
+204875570063_R02C01	C3	Dnmt1 Manipulation	Mouse	0.969	6	186	Colon	Female	N/R	NA	GSM5587257
+204875570065_R01C01	C2	Dnmt1 Manipulation	Mouse	0.975	5	161	Colon	Male	N/+	NA	GSM5587258
+204875570065_R02C01	C3	Dnmt1 Manipulation	Mouse	0.978	5	161	Colon	Male	N/+	NA	GSM5587259
+204875570019_R04C02	E1	Dnmt1 Manipulation	Mouse	0.964	6	186	Esophagus	Female	N/R	NA	GSM5587260
+204875570020_R02C01	E1	Dnmt1 Manipulation	Mouse	0.968	6	184	Esophagus	Female	R/+	NA	GSM5587261
+204875570033_R01C01	E1	Dnmt1 Manipulation	Mouse	0.963	5	155	Esophagus	Male	N/R	NA	GSM5587262
+204875570036_R03C02	E1	Dnmt1 Manipulation	Mouse	0.968	5	155	Esophagus	Male	R/+	NA	GSM5587263
+204875570044_R01C01	E1	Dnmt1 Manipulation	Mouse	0.945	6	202	Esophagus	Female	WT	NA	GSM5587264
+204875570053_R05C01	E1	Dnmt1 Manipulation	Mouse	0.942	6	186	Esophagus	Female	N/+	NA	GSM5587265
+204875570062_R05C01	E1	Dnmt1 Manipulation	Mouse	0.965	5	161	Esophagus	Male	N/+	NA	GSM5587266
+204875570019_R01C02	NA	Dnmt1 Manipulation	Mouse	0.976	6	184	Fat	Female	R/+	NA	GSM5587267
+204875570032_R06C01	NA	Dnmt1 Manipulation	Mouse	0.961	6	202	Fat	Female	WT	NA	GSM5587268
+204875570036_R06C01	NA	Dnmt1 Manipulation	Mouse	0.954	5	155	Fat	Male	N/R	NA	GSM5587269
+204875570053_R02C01	NA	Dnmt1 Manipulation	Mouse	0.961	6	186	Fat	Female	N/R	NA	GSM5587270
+204875570062_R02C01	NA	Dnmt1 Manipulation	Mouse	0.975	5	155	Fat	Male	R/+	NA	GSM5587271
+204875570063_R04C02	NA	Dnmt1 Manipulation	Mouse	0.971	6	186	Fat	Female	N/+	NA	GSM5587272
+204875570065_R04C02	NA	Dnmt1 Manipulation	Mouse	0.971	5	161	Fat	Male	N/+	NA	GSM5587273
+204875570019_R03C02	NA	Dnmt1 Manipulation	Mouse	0.976	6	184	Frontal Lobe Brain	Female	R/+	NA	GSM5587274
+204875570020_R06C02	NA	Dnmt1 Manipulation	Mouse	0.967	6	184	Frontal Lobe Brain	Female	R/+	NA	GSM5587275
+204875570025_R02C02	NA	Dnmt1 Manipulation	Mouse	0.970	6	186	Frontal Lobe Brain	Female	N/R	NA	GSM5587276
+204875570033_R05C02	NA	Dnmt1 Manipulation	Mouse	0.964	5	155	Frontal Lobe Brain	Male	N/R	NA	GSM5587277
+204875570044_R05C02	NA	Dnmt1 Manipulation	Mouse	0.944	6	202	Frontal Lobe Brain	Female	WT	NA	GSM5587278
+204875570058_R01C02	NA	Dnmt1 Manipulation	Mouse	0.970	5	155	Frontal Lobe Brain	Male	R/+	NA	GSM5587279
+204875570063_R03C01	NA	Dnmt1 Manipulation	Mouse	0.960	6	186	Frontal Lobe Brain	Female	N/+	NA	GSM5587280
+204875570065_R03C01	NA	Dnmt1 Manipulation	Mouse	0.956	5	161	Frontal Lobe Brain	Male	N/+	NA	GSM5587281
+204875570019_R02C01	NA	Dnmt1 Manipulation	Mouse	0.972	6	184	Heart	Female	R/+	NA	GSM5587282
+204875570025_R04C02	NA	Dnmt1 Manipulation	Mouse	0.966	6	186	Heart	Female	N/R	NA	GSM5587283
+204875570032_R01C01	NA	Dnmt1 Manipulation	Mouse	0.966	6	202	Heart	Female	WT	NA	GSM5587284
+204875570036_R01C01	NA	Dnmt1 Manipulation	Mouse	0.963	5	155	Heart	Male	N/R	NA	GSM5587285
+204875570058_R03C02	NA	Dnmt1 Manipulation	Mouse	0.970	5	155	Heart	Male	R/+	NA	GSM5587286
+204875570063_R05C01	NA	Dnmt1 Manipulation	Mouse	0.962	6	186	Heart	Female	N/+	NA	GSM5587287
+204875570065_R05C01	NA	Dnmt1 Manipulation	Mouse	0.971	5	161	Heart	Male	N/+	NA	GSM5587288
+204875570019_R01C01	NA	Dnmt1 Manipulation	Mouse	0.969	6	184	Hind Brain	Female	R/+	NA	GSM5587289
+204875570025_R03C02	NA	Dnmt1 Manipulation	Mouse	0.974	6	186	Hind Brain	Female	N/R	NA	GSM5587290
+204875570033_R06C02	NA	Dnmt1 Manipulation	Mouse	0.961	5	155	Hind Brain	Male	N/R	NA	GSM5587291
+204875570044_R06C02	NA	Dnmt1 Manipulation	Mouse	0.949	6	202	Hind Brain	Female	WT	NA	GSM5587292
+204875570058_R02C02	NA	Dnmt1 Manipulation	Mouse	0.973	5	155	Hind Brain	Male	R/+	NA	GSM5587293
+204875570063_R04C01	NA	Dnmt1 Manipulation	Mouse	0.950	6	186	Hind Brain	Female	N/+	NA	GSM5587294
+204875570065_R04C01	NA	Dnmt1 Manipulation	Mouse	0.955	5	161	Hind Brain	Male	N/+	NA	GSM5587295
+204875570019_R06C01	NA	Dnmt1 Manipulation	Mouse	0.973	6	184	Kidney	Female	R/+	NA	GSM5587296
+204875570032_R05C01	NA	Dnmt1 Manipulation	Mouse	0.958	6	202	Kidney	Female	WT	NA	GSM5587297
+204875570036_R05C01	NA	Dnmt1 Manipulation	Mouse	0.961	5	155	Kidney	Male	N/R	NA	GSM5587298
+204875570053_R01C01	NA	Dnmt1 Manipulation	Mouse	0.957	6	186	Kidney	Female	N/R	NA	GSM5587299
+204875570062_R01C01	NA	Dnmt1 Manipulation	Mouse	0.973	5	155	Kidney	Male	R/+	NA	GSM5587300
+204875570063_R03C02	NA	Dnmt1 Manipulation	Mouse	0.969	6	186	Kidney	Female	N/+	NA	GSM5587301
+204875570065_R03C02	NA	Dnmt1 Manipulation	Mouse	0.979	5	161	Kidney	Male	N/+	NA	GSM5587302
+204875570036_R03C01	NA	Dnmt1 Manipulation	Mouse	0.879	5	155	Liver	Male	N/R	NA	GSM5587303
+204879580028_R02C02	NA	Dnmt1 Manipulation	Mouse	0.884	6	178	Liver	Female	R/+	NA	GSM5587304
+204879580028_R03C01	NA	Dnmt1 Manipulation	Mouse	0.868	7.5	224	Liver	Male	N/+	NA	GSM5587305
+204879580028_R03C02	NA	Dnmt1 Manipulation	Mouse	0.783	5	154	Liver	Male	R/+	NA	GSM5587306
+204879580028_R04C01	NA	Dnmt1 Manipulation	Mouse	0.775	6	184	Liver	Female	N/+	NA	GSM5587307
+204879580028_R05C01	NA	Dnmt1 Manipulation	Mouse	0.868	6	185	Liver	Female	WT	NA	GSM5587308
+204879580028_R06C01	NA	Dnmt1 Manipulation	Mouse	0.744	6	185	Liver	Female	N/R	NA	GSM5587309
+204875570019_R03C01	NA	Dnmt1 Manipulation	Mouse	0.976	6	184	Lung	Female	R/+	NA	GSM5587310
+204875570025_R05C02	NA	Dnmt1 Manipulation	Mouse	0.973	6	186	Lung	Female	N/R	NA	GSM5587311
+204875570032_R02C01	NA	Dnmt1 Manipulation	Mouse	0.970	6	202	Lung	Female	WT	NA	GSM5587312
+204875570036_R02C01	NA	Dnmt1 Manipulation	Mouse	0.972	5	155	Lung	Male	N/R	NA	GSM5587313
+204875570058_R04C02	NA	Dnmt1 Manipulation	Mouse	0.972	5	155	Lung	Male	R/+	NA	GSM5587314
+204875570063_R06C01	NA	Dnmt1 Manipulation	Mouse	0.959	6	186	Lung	Female	N/+	NA	GSM5587315
+204875570065_R06C01	NA	Dnmt1 Manipulation	Mouse	0.950	5	161	Lung	Male	N/+	NA	GSM5587316
+204875570019_R02C02	NA	Dnmt1 Manipulation	Mouse	0.971	6	184	Muscle	Female	R/+	NA	GSM5587317
+204875570032_R01C02	NA	Dnmt1 Manipulation	Mouse	0.957	6	202	Muscle	Female	WT	NA	GSM5587318
+204875570036_R01C02	NA	Dnmt1 Manipulation	Mouse	0.798	5	155	Muscle	Male	N/R	NA	GSM5587319
+204875570062_R03C01	NA	Dnmt1 Manipulation	Mouse	0.882	5	155	Muscle	Male	R/+	NA	GSM5587320
+204875570063_R05C02	NA	Dnmt1 Manipulation	Mouse	0.964	6	186	Muscle	Female	N/+	NA	GSM5587321
+204875570065_R05C02	NA	Dnmt1 Manipulation	Mouse	0.875	5	161	Muscle	Male	N/+	NA	GSM5587322
+204879580028_R05C02	NA	Dnmt1 Manipulation	Mouse	0.951	6	185	Muscle	Female	N/R	NA	GSM5587323
+204617710014_R02C01	Untreated-Day 12	Dnmt1 Manipulation	Mouse	0.966	NA	NA	NA	Female	NA	NA	GSM5587200
+204617710014_R03C01	Untreated-Day 24	Dnmt1 Manipulation	Mouse	0.959	NA	NA	NA	Female	NA	NA	GSM5587201
+204617710014_R04C01	DAC-Day 12/Muscle	Dnmt1 Manipulation	Mouse	0.955	NA	NA	NA	Female	NA	NA	GSM5587203
+204617710014_R05C01	DAC-Day 24/Fat	Dnmt1 Manipulation	Mouse	0.953	NA	NA	NA	Female	NA	NA	GSM5587204
+204617710014_R06C01	Untreated	Dnmt1 Manipulation	Mouse	0.958	NA	NA	NA	Female	NA	NA	GSM5587206
+204637490012_R01C01	J1 Passage 7	Dnmt1 Manipulation	Mouse	0.966	NA	NA	NA	Male	WT	NA	GSM5587324
+204637490012_R01C02	J1 Passage 18	Dnmt1 Manipulation	Mouse	0.963	NA	NA	NA	Male	WT	NA	GSM5587325
+204637490012_R02C01	J1 Passage 8	Dnmt1 Manipulation	Mouse	0.967	NA	NA	NA	Male	WT	NA	GSM5587326
+204637490012_R02C02	J1 C/C	Dnmt1 Manipulation	Mouse	0.965	NA	NA	NA	Male	C/C	NA	GSM5587327
+204637490012_R04C01	J1 N/N Clone 52	Dnmt1 Manipulation	Mouse	0.961	NA	NA	NA	Male	N/N	NA	GSM5587328
+204637490012_R04C02	J1 R/+ AU 18	Dnmt1 Manipulation	Mouse	0.948	NA	NA	NA	Male	R/+	NA	GSM5587329
+204637490012_R05C02	J1 N/N Clone 10	Dnmt1 Manipulation	Mouse	0.965	NA	NA	NA	Male	N/N	NA	GSM5587330
+204637490014_R02C01	J1 Passage 17	Dnmt1 Manipulation	Mouse	0.966	NA	NA	NA	Male	WT	NA	GSM5587331
+204637490014_R05C01	J1 S/S Clone B	Dnmt1 Manipulation	Mouse	0.965	NA	NA	NA	Male	S/S	NA	GSM5587332
+204617710014_R03C02	Heterozygous_Dnmt1_KOs	Dnmt1 Manipulation	Mouse	0.962	NA	NA	NA	Male	PH/+	NA	GSM5587202
+204617710014_R05C02	Homozygous_Dnmt1_KOs	Dnmt1 Manipulation	Mouse	0.957	NA	NA	NA	Male	P/H	NA	GSM5587205
+204875570032_R02C02	NA	Dnmt1 Manipulation	Mouse	0.963	6	202	Ovary	Female	WT	NA	GSM5587333
+204875570053_R04C01	NA	Dnmt1 Manipulation	Mouse	0.966	6	186	Ovary	Female	N/R	NA	GSM5587334
+204875570063_R06C02	NA	Dnmt1 Manipulation	Mouse	0.970	6	186	Ovary	Female	N/+	NA	GSM5587335
+204875570020_R01C02	SI10	Dnmt1 Manipulation	Mouse	0.968	6	184	Small Intestine	Female	R/+	Normal	GSM5587336
+204875570020_R05C01	SI1	Dnmt1 Manipulation	Mouse	0.971	6	184	Small Intestine	Female	R/+	Normal	GSM5587337
+204875570020_R06C01	SI3	Dnmt1 Manipulation	Mouse	0.975	6	184	Small Intestine	Female	R/+	Normal	GSM5587338
+204875570025_R01C01	SI1	Dnmt1 Manipulation	Mouse	0.971	6	186	Small Intestine	Female	N/R	Normal	GSM5587339
+204875570025_R02C01	SI3	Dnmt1 Manipulation	Mouse	0.976	6	186	Small Intestine	Female	N/R	Normal	GSM5587340
+204875570025_R03C01	SI10	Dnmt1 Manipulation	Mouse	0.861	6	186	Small Intestine	Female	N/R	Normal	GSM5587341
+204875570033_R04C01	SI1	Dnmt1 Manipulation	Mouse	0.927	5	155	Small Intestine	Male	N/R	Normal	GSM5587342
+204875570033_R05C01	SI3	Dnmt1 Manipulation	Mouse	0.978	5	155	Small Intestine	Male	N/R	Normal	GSM5587343
+204875570033_R06C01	SI10	Dnmt1 Manipulation	Mouse	0.974	5	155	Small Intestine	Male	N/R	Normal	GSM5587344
+204875570036_R06C02	SI1	Dnmt1 Manipulation	Mouse	0.976	5	155	Small Intestine	Male	R/+	Normal	GSM5587345
+204875570044_R04C01	SI1	Dnmt1 Manipulation	Mouse	0.968	6	202	Small Intestine	Female	WT	Normal	GSM5587346
+204875570044_R05C01	SI3	Dnmt1 Manipulation	Mouse	0.970	6	202	Small Intestine	Female	WT	Normal	GSM5587347
+204875570044_R06C01	SI10	Dnmt1 Manipulation	Mouse	0.961	6	202	Small Intestine	Female	WT	Normal	GSM5587348
+204875570053_R02C02	SI1	Dnmt1 Manipulation	Mouse	0.951	6	186	Small Intestine	Female	N/+	Normal	GSM5587349
+204875570053_R03C02	SI3	Dnmt1 Manipulation	Mouse	0.949	6	186	Small Intestine	Female	N/+	Normal	GSM5587350
+204875570053_R04C02	SI10	Dnmt1 Manipulation	Mouse	0.960	6	186	Small Intestine	Female	N/+	Normal	GSM5587351
+204875570058_R01C01	SI2	Dnmt1 Manipulation	Mouse	0.969	5	155	Small Intestine	Male	R/+	Normal	GSM5587352
+204875570058_R02C01	SI10	Dnmt1 Manipulation	Mouse	0.967	5	155	Small Intestine	Male	R/+	Normal	GSM5587353
+204875570062_R02C02	SI1	Dnmt1 Manipulation	Mouse	0.969	5	161	Small Intestine	Male	N/+	Normal	GSM5587354
+204875570062_R03C02	SI3	Dnmt1 Manipulation	Mouse	0.965	5	161	Small Intestine	Male	N/+	Normal	GSM5587355
+204875570062_R04C02	SI10	Dnmt1 Manipulation	Mouse	0.967	5	161	Small Intestine	Male	N/+	Normal	GSM5587356
+204875570019_R05C01	NA	Dnmt1 Manipulation	Mouse	0.968	6	184	Spleen	Female	R/+	NA	GSM5587357
+204875570032_R04C01	NA	Dnmt1 Manipulation	Mouse	0.961	6	202	Spleen	Female	WT	NA	GSM5587358
+204875570036_R04C01	NA	Dnmt1 Manipulation	Mouse	0.957	5	155	Spleen	Female	N/R	NA	GSM5587359
+204875570043_R03C02	NA	Dnmt1 Manipulation	Mouse	0.961	6	186	Spleen	Female	N/R	NA	GSM5587360
+204875570058_R06C02	NA	Dnmt1 Manipulation	Mouse	0.955	5	155	Spleen	Male	R/+	NA	GSM5587361
+204875570063_R02C02	NA	Dnmt1 Manipulation	Mouse	0.962	6	186	Spleen	Female	N/+	NA	GSM5587362
+204875570065_R02C02	NA	Dnmt1 Manipulation	Mouse	0.974	5	161	Spleen	Male	N/+	NA	GSM5587363
+204875570019_R05C02	S1	Dnmt1 Manipulation	Mouse	0.968	6	186	Stomach	Female	N/R	NA	GSM5587364
+204875570019_R06C02	S2	Dnmt1 Manipulation	Mouse	0.977	6	186	Stomach	Female	N/R	NA	GSM5587365
+204875570020_R03C01	S1	Dnmt1 Manipulation	Mouse	0.971	6	184	Stomach	Female	R/+	NA	GSM5587366
+204875570020_R04C01	S2	Dnmt1 Manipulation	Mouse	0.972	6	184	Stomach	Female	R/+	NA	GSM5587367
+204875570033_R02C01	S1	Dnmt1 Manipulation	Mouse	0.972	5	155	Stomach	Male	N/R	NA	GSM5587368
+204875570033_R03C01	S2	Dnmt1 Manipulation	Mouse	0.969	5	155	Stomach	Male	N/R	NA	GSM5587369
+204875570036_R04C02	S1	Dnmt1 Manipulation	Mouse	0.972	5	155	Stomach	Male	R/+	NA	GSM5587370
+204875570036_R05C02	S2	Dnmt1 Manipulation	Mouse	0.980	5	155	Stomach	Male	R/+	NA	GSM5587371
+204875570044_R02C01	S1	Dnmt1 Manipulation	Mouse	0.962	6	202	Stomach	Female	WT	NA	GSM5587372
+204875570044_R03C01	S2	Dnmt1 Manipulation	Mouse	0.969	6	202	Stomach	Female	WT	NA	GSM5587373
+204875570053_R01C02	S2	Dnmt1 Manipulation	Mouse	0.968	6	186	Stomach	Female	N/+	NA	GSM5587374
+204875570053_R06C01	S1	Dnmt1 Manipulation	Mouse	0.965	6	186	Stomach	Female	N/+	NA	GSM5587375
+204875570062_R01C02	S2	Dnmt1 Manipulation	Mouse	0.970	5	161	Stomach	Male	N/+	NA	GSM5587376
+204875570062_R06C01	S1	Dnmt1 Manipulation	Mouse	0.969	5	161	Stomach	Male	N/+	NA	GSM5587377
+204875570036_R02C02	NA	Dnmt1 Manipulation	Mouse	0.965	5	155	Testis	Male	N/R	NA	GSM5587378
+204875570062_R04C01	NA	Dnmt1 Manipulation	Mouse	0.973	5	155	Testis	Male	R/+	NA	GSM5587379
+204875570065_R06C02	NA	Dnmt1 Manipulation	Mouse	0.967	5	161	Testis	Male	N/+	NA	GSM5587380
+204875570002_R03C01	24h Fixation 10% NBF	FFPE samples	Mouse	0.970	2	53	Heart	Male	WT	NA	GSM5587381
+204875570002_R04C01	48h Fixation 10% NBF	FFPE samples	Mouse	0.971	2	53	Heart	Male	WT	NA	GSM5587382
+204875570002_R05C02	24h Fixation 10% NBF	FFPE samples	Mouse	0.963	2	53	Heart	Female	WT	NA	GSM5587383
+204875570002_R06C02	48h Fixation 10% NBF	FFPE samples	Mouse	0.958	2	53	Heart	Female	WT	NA	GSM5587384
+204875570007_R04C02	Fresh Frozen LN2	FFPE samples	Mouse	0.970	2	53	Heart	Female	WT	NA	GSM5587385
+204875570007_R06C01	Fresh Frozen LN2	FFPE samples	Mouse	0.961	2	53	Heart	Male	WT	NA	GSM5587386
+204875570002_R01C01	24h Fixation 10% NBF	FFPE samples	Mouse	0.971	2	53	Liver	Male	WT	NA	GSM5587387
+204875570002_R02C01	48h Fixation 10% NBF	FFPE samples	Mouse	0.964	2	53	Liver	Male	WT	NA	GSM5587388
+204875570002_R03C02	24h Fixation 10% NBF	FFPE samples	Mouse	0.964	2	53	Liver	Female	WT	NA	GSM5587389
+204875570002_R04C02	48h Fixation 10% NBF	FFPE samples	Mouse	0.962	2	53	Liver	Female	WT	NA	GSM5587390
+204875570007_R03C02	Fresh Frozen LN2	FFPE samples	Mouse	0.969	2	53	Liver	Female	WT	NA	GSM5587391
+204875570007_R05C01	Fresh Frozen LN2	FFPE samples	Mouse	0.966	2	53	Liver	Male	WT	NA	GSM5587392
+204875570002_R05C01	24h Fixation 10% NBF	FFPE samples	Mouse	0.971	2	53	Spleen	Male	WT	NA	GSM5587393
+204875570002_R06C01	48h Fixation 10% NBF	FFPE samples	Mouse	0.967	2	53	Spleen	Male	WT	NA	GSM5587394
+204875570007_R01C01	24h Fixation 10% NBF	FFPE samples	Mouse	0.968	2	53	Spleen	Female	WT	NA	GSM5587395
+204875570007_R01C02	Fresh Frozen LN2	FFPE samples	Mouse	0.971	2	53	Spleen	Male	WT	NA	GSM5587396
+204875570007_R02C01	48h Fixation 10% NBF	FFPE samples	Mouse	0.973	2	53	Spleen	Female	WT	NA	GSM5587397
+204875570007_R05C02	Fresh Frozen LN2	FFPE samples	Mouse	0.972	2	53	Spleen	Female	WT	NA	GSM5587398
+204875570002_R01C02	24h Fixation 10% NBF	FFPE samples	Mouse	0.970	2	53	Stomach	Male	WT	NA	GSM5587399
+204875570002_R02C02	48h Fixation 10% NBF	FFPE samples	Mouse	0.971	2	53	Stomach	Male	WT	NA	GSM5587400
+204875570007_R02C02	Fresh Frozen LN2	FFPE samples	Mouse	0.976	2	53	Stomach	Male	WT	NA	GSM5587401
+204875570007_R03C01	24h Fixation 10% NBF	FFPE samples	Mouse	0.966	2	53	Stomach	Female	WT	NA	GSM5587402
+204875570007_R04C01	48h Fixation 10% NBF	FFPE samples	Mouse	0.972	2	53	Stomach	Female	WT	NA	GSM5587403
+204875570007_R06C02	Fresh Frozen LN2	FFPE samples	Mouse	0.969	2	53	Stomach	Female	WT	NA	GSM5587404
+204875570056_R03C01	CHO/LIF Cell Line	Hamster CHO	Hamster	0.170	NA	NA	NA	Female	NA	NA	GSM5587405
+204617710018_R06C02	100% Mouse Fat	Human-mouse Titration	Mouse	0.966	1	29	Fat	Female	WT	NA	GSM5587153
+204879580033_R04C02	100% Mouse Fat	Human-mouse Titration	Mouse	0.969	6	183	Fat	Female	NA	NA	GSM5587406
+204617710014_R06C02	100% Human Blood	Human-mouse Titration	Human	0.119	NA	NA	NA	Female	NA	NA	GSM5587207
+204879580041_R03C01	100% Human Blood	Human-mouse Titration	Human	0.123	NA	NA	NA	Female	NA	NA	GSM5587407
+204617710018_R01C01	"90% Human Blood, 10% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.822	1	31	NA	Male	NA	NA	GSM5587142
+204617710018_R01C02	"75% Human Blood, 25% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.916	1	29	NA	Female	NA	NA	GSM5587143
+204617710018_R02C01	"75% Human Blood, 25% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.922	1	31	NA	Male	NA	NA	GSM5587144
+204617710018_R02C02	"50% Human Blood, 50% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.942	1	29	NA	Female	NA	NA	GSM5587145
+204617710018_R03C01	"50% Human Blood, 50% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.954	1	31	NA	Male	NA	NA	GSM5587146
+204617710018_R03C02	"25% Human Blood, 75% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.955	1	29	NA	Female	NA	NA	GSM5587147
+204617710018_R04C01	"25% Human Blood, 75% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.967	1	31	NA	Male	NA	NA	GSM5587148
+204617710018_R04C02	"10% Human Blood, 90% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.959	1	29	NA	Female	NA	NA	GSM5587149
+204617710018_R05C01	"10% Human Blood, 90% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.961	1	31	NA	Male	NA	NA	GSM5587150
+204617710018_R06C01	"90% Human Blood, 10% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.837	1	29	NA	Female	NA	NA	GSM5587152
+204879580033_R01C01	"95% Human Blood, 5% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.721	6	183	NA	Female	NA	NA	GSM5587408
+204879580033_R01C02	"15% Human Blood, 85% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.965	6	183	NA	Female	NA	NA	GSM5587409
+204879580033_R02C01	"90% Human Blood, 10% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.876	6	183	NA	Female	NA	NA	GSM5587410
+204879580033_R02C02	"10% Human Blood, 90% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.967	6	183	NA	Female	NA	NA	GSM5587411
+204879580033_R03C01	"85% Human Blood, 15% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.917	6	183	NA	Female	NA	NA	GSM5587412
+204879580033_R03C02	"5% Human Blood, 95% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.969	6	183	NA	Female	NA	NA	GSM5587413
+204879580033_R04C01	"75% Human Blood, 25% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.943	6	183	NA	Female	NA	NA	GSM5587414
+204879580033_R05C01	"50% Human Blood, 50% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.957	6	183	NA	Female	NA	NA	GSM5587415
+204879580033_R06C01	"25% Human Blood, 75% Mouse Spleen"	Human-mouse Titration	Human-Mouse Mix	0.963	6	183	NA	Female	NA	NA	GSM5587416
+204879580041_R01C02	"75% Human Blood, 25% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.953	6	183	NA	Female	NA	NA	GSM5587417
+204879580041_R02C02	"50% Human Blood, 50% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.965	6	183	NA	Female	NA	NA	GSM5587418
+204879580041_R03C02	"25% Human Blood, 75% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.969	6	183	NA	Female	NA	NA	GSM5587419
+204879580041_R04C01	"95% Human Blood, 5% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.861	6	183	NA	Female	NA	NA	GSM5587420
+204879580041_R04C02	"15% Human Blood, 85% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.969	6	183	NA	Female	NA	NA	GSM5587421
+204879580041_R05C01	"90% Human Blood, 10% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.924	6	183	NA	Female	NA	NA	GSM5587422
+204879580041_R05C02	"10% Human Blood, 90% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.968	6	183	NA	Female	NA	NA	GSM5587423
+204879580041_R06C01	"85% Human Blood, 15% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.906	6	183	NA	Female	NA	NA	GSM5587424
+204879580041_R06C02	"5% Human Blood, 95% Mouse Fat"	Human-mouse Titration	Human-Mouse Mix	0.956	6	183	NA	Female	NA	NA	GSM5587425
+204617710018_R05C02	100% Mouse Spleen	Human-mouse Titration	Mouse	0.972	1	31	Spleen	Male	WT	NA	GSM5587151
+204879580033_R05C02	100% Mouse Spleen	Human-mouse Titration	Mouse	0.968	6	183	Spleen	Female	NA	NA	GSM5587426
+204617710011_R01C01	NIH3T3	Input Quantity Titration	Mouse	0.887	NA	NA	NA	Male	NA	NA	GSM5587208
+204617710011_R01C02	B16	Input Quantity Titration	Mouse	0.936	NA	NA	NA	Male	NA	NA	GSM5587209
+204617710011_R02C01	NIH3T3	Input Quantity Titration	Mouse	0.841	NA	NA	NA	Male	NA	NA	GSM5587210
+204617710011_R02C02	B16	Input Quantity Titration	Mouse	0.906	NA	NA	NA	Male	NA	NA	GSM5587211
+204617710011_R04C01	NIH3T3	Input Quantity Titration	Mouse	0.968	NA	NA	NA	Male	NA	NA	GSM5587214
+204617710011_R04C02	B16	Input Quantity Titration	Mouse	0.887	NA	NA	NA	Male	NA	NA	GSM5587215
+204617710011_R05C01	NIH3T3	Input Quantity Titration	Mouse	0.953	NA	NA	NA	Male	NA	NA	GSM5587216
+204617710011_R05C02	B16	Input Quantity Titration	Mouse	0.961	NA	NA	NA	Male	NA	NA	GSM5587217
+204617710011_R06C01	NIH3T3	Input Quantity Titration	Mouse	0.937	NA	NA	NA	Male	NA	NA	GSM5587218
+204617710011_R06C02	B16	Input Quantity Titration	Mouse	0.948	NA	NA	NA	Male	NA	NA	GSM5587219
+204617710012_R04C01	B16	Input Quantity Titration	Mouse	0.923	NA	NA	NA	Male	NA	NA	GSM5587112
+204617710012_R04C02	B16	Input Quantity Titration	Mouse	0.896	NA	NA	NA	Male	NA	NA	GSM5587113
+204617710012_R05C01	B16	Input Quantity Titration	Mouse	0.948	NA	NA	NA	Male	NA	NA	GSM5587114
+204617710012_R05C02	B16	Input Quantity Titration	Mouse	0.866	NA	NA	NA	Male	NA	NA	GSM5587115
+204617710012_R06C01	B16	Input Quantity Titration	Mouse	0.952	NA	NA	NA	Male	NA	NA	GSM5587116
+204617710015_R06C02	NIH3T3	Input Quantity Titration	Mouse	0.954	NA	NA	NA	Male	NA	NA	GSM5587129
+204617710019_R01C02	B16	Input Quantity Titration	Mouse	0.963	NA	NA	NA	Male	NA	NA	GSM5587155
+204617710019_R02C02	B16	Input Quantity Titration	Mouse	0.948	NA	NA	NA	Male	NA	NA	GSM5587157
+204617710019_R03C02	B16	Input Quantity Titration	Mouse	0.924	NA	NA	NA	Male	NA	NA	GSM5587159
+204617710019_R04C02	B16	Input Quantity Titration	Mouse	0.875	NA	NA	NA	Male	NA	NA	GSM5587161
+204617710019_R05C02	B16	Input Quantity Titration	Mouse	0.854	NA	NA	NA	Male	NA	NA	GSM5587163
+204637490023_R03C02	B16	Input Quantity Titration	Mouse	0.668	NA	NA	NA	Male	NA	NA	GSM5587427
+204637490023_R04C02	B16	Input Quantity Titration	Mouse	0.605	NA	NA	NA	Male	NA	NA	GSM5587428
+204637490023_R05C02	B16	Input Quantity Titration	Mouse	0.770	NA	NA	NA	Male	NA	NA	GSM5587429
+204637490023_R06C02	B16	Input Quantity Titration	Mouse	0.811	NA	NA	NA	Male	NA	NA	GSM5587430
+204637490024_R01C01	B16	Input Quantity Titration	Mouse	0.689	NA	NA	NA	Male	NA	NA	GSM5587431
+204637490024_R02C01	B16	Input Quantity Titration	Mouse	0.568	NA	NA	NA	Male	NA	NA	GSM5587432
+204637490024_R03C01	B16	Input Quantity Titration	Mouse	0.762	NA	NA	NA	Male	NA	NA	GSM5587433
+204637490024_R04C01	B16	Input Quantity Titration	Mouse	0.809	NA	NA	NA	Male	NA	NA	GSM5587434
+204879580002_R04C02	T1	Input Quantity Titration	Mouse	0.982	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587435
+204879580002_R05C02	T1	Input Quantity Titration	Mouse	0.979	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587436
+204879580002_R06C02	T1	Input Quantity Titration	Mouse	0.971	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587437
+204879580007_R01C01	T1	Input Quantity Titration	Mouse	0.963	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587438
+204879580007_R02C01	T1	Input Quantity Titration	Mouse	0.960	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587439
+204879580007_R03C01	T1	Input Quantity Titration	Mouse	0.856	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587440
+204879580007_R04C01	T1	Input Quantity Titration	Mouse	0.818	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587441
+204879580007_R05C01	T1	Input Quantity Titration	Mouse	0.333	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587442
+204875570018_R01C02	NA	Intestinal Tumor Biology	Mouse	0.972	9	304	Cecum	Male	NA	Normal	GSM5587443
+204875570018_R02C01	NA	Intestinal Tumor Biology	Mouse	0.975	9	304	Cecum	Male	NA	Normal	GSM5587444
+204875570018_R03C01	NA	Intestinal Tumor Biology	Mouse	0.980	9	304	Cecum	Male	NA	Tumor	GSM5587445
+204875570018_R05C01	NA	Intestinal Tumor Biology	Mouse	0.969	9	304	Cecum	Male	NA	Normal	GSM5587446
+204875570024_R01C01	NA	Intestinal Tumor Biology	Mouse	0.980	10	310	Cecum	Male	NA	Normal	GSM5587447
+204875570024_R02C02	NA	Intestinal Tumor Biology	Mouse	0.969	10	310	Cecum	Female	NA	Normal	GSM5587448
+204875570024_R03C01	NA	Intestinal Tumor Biology	Mouse	0.977	10	310	Cecum	Male	NA	Normal	GSM5587449
+204875570024_R03C02	NA	Intestinal Tumor Biology	Mouse	0.967	10	310	Cecum	Female	NA	Tumor	GSM5587450
+204875570024_R04C01	NA	Intestinal Tumor Biology	Mouse	0.980	10	310	Cecum	Male	NA	Tumor	GSM5587451
+204875570024_R05C02	NA	Intestinal Tumor Biology	Mouse	0.974	10	310	Cecum	Female	NA	Normal	GSM5587452
+204875570024_R06C01	NA	Intestinal Tumor Biology	Mouse	0.981	10	310	Cecum	Male	NA	Normal	GSM5587453
+204875570024_R06C02	NA	Intestinal Tumor Biology	Mouse	0.953	10	310	Cecum	Female	NA	Tumor	GSM5587454
+204879580041_R01C01	Cecum tdTomato Flow Sorted Cells	Intestinal Tumor Biology	Mouse	0.928	3	82	Cecum	Female	NA	Normal	GSM5587455
+204879580042_R01C02	NA	Intestinal Tumor Biology	Mouse	0.980	14	417	Cecum	Male	NA	Normal	GSM5587456
+204879580042_R04C02	NA	Intestinal Tumor Biology	Mouse	0.974	14	417	Cecum	Female	NA	Normal	GSM5587457
+204879580045_R01C01	NA	Intestinal Tumor Biology	Mouse	0.975	14	416	Cecum	Female	NA	Normal	GSM5587458
+204879580045_R01C02	NA	Intestinal Tumor Biology	Mouse	0.973	14	414	Cecum	Female	NA	Normal	GSM5587459
+204879580045_R04C01	NA	Intestinal Tumor Biology	Mouse	0.972	14	416	Cecum	Female	NA	Normal	GSM5587460
+204879580045_R04C02	NA	Intestinal Tumor Biology	Mouse	0.976	14.5	432	Cecum	Female	NA	Normal	GSM5587461
+204637490014_R03C02	CT1	Intestinal Tumor Biology	Mouse	0.965	6	183	Colon	Female	NA	Tumor	GSM5587462
+204637490014_R04C02	CN1	Intestinal Tumor Biology	Mouse	0.967	6	183	Colon	Female	NA	Normal	GSM5587463
+204637490014_R05C02	CT15	Intestinal Tumor Biology	Mouse	0.970	5	161	Colon	Male	NA	Tumor	GSM5587464
+204637490014_R06C02	T19	Intestinal Tumor Biology	Mouse	0.977	7	213	Colon	Male	NA	Tumor	GSM5587465
+204875570004_R04C02	CN3	Intestinal Tumor Biology	Mouse	0.976	7	175	Colon	Female	NA	Normal	GSM5587466
+204875570018_R01C01	NA	Intestinal Tumor Biology	Mouse	0.971	10	310	Colon	Female	NA	Normal	GSM5587467
+204875570018_R02C02	NA	Intestinal Tumor Biology	Mouse	0.978	9	304	Colon	Male	NA	Normal	GSM5587468
+204875570018_R04C01	NA	Intestinal Tumor Biology	Mouse	0.982	9	304	Colon	Male	NA	Normal	GSM5587469
+204875570018_R06C01	NA	Intestinal Tumor Biology	Mouse	0.975	9	304	Colon	Male	NA	Normal	GSM5587470
+204875570024_R01C02	NA	Intestinal Tumor Biology	Mouse	0.970	10	310	Colon	Male	NA	Normal	GSM5587471
+204875570024_R02C01	NA	Intestinal Tumor Biology	Mouse	0.970	10	310	Colon	Male	NA	Normal	GSM5587472
+204875570024_R04C02	NA	Intestinal Tumor Biology	Mouse	0.971	10	310	Colon	Female	NA	Normal	GSM5587473
+204875570024_R05C01	NA	Intestinal Tumor Biology	Mouse	0.969	10	310	Colon	Male	NA	Normal	GSM5587474
+204875570059_R05C02	T7	Intestinal Tumor Biology	Mouse	0.977	7	175	Colon	Female	NA	Tumor	GSM5587475
+204875570075_R04C01	T27	Intestinal Tumor Biology	Mouse	0.973	7	175	Colon	Female	NA	Tumor	GSM5587476
+204875570086_R02C01	T17	Intestinal Tumor Biology	Mouse	0.972	7	213	Colon	Male	NA	Tumor	GSM5587477
+204875570086_R03C01	C1	Intestinal Tumor Biology	Mouse	0.975	7	213	Colon	Male	NA	Normal	GSM5587478
+204875570086_R04C01	C2	Intestinal Tumor Biology	Mouse	0.978	7	213	Colon	Male	NA	Normal	GSM5587479
+204875570086_R05C01	T21	Intestinal Tumor Biology	Mouse	0.962	7	213	Colon	Male	NA	Tumor	GSM5587480
+204875570086_R06C01	C3	Intestinal Tumor Biology	Mouse	0.978	7	213	Colon	Male	NA	Normal	GSM5587481
+204875570087_R01C02	C1	Intestinal Tumor Biology	Mouse	0.968	5	161	Colon	Male	NA	Normal	GSM5587482
+204879580041_R02C01	tdTomoato Flow Sorted Cells	Intestinal Tumor Biology	Mouse	0.940	3	82	Colon	Female	NA	Normal	GSM5587483
+204879580042_R02C02	NA	Intestinal Tumor Biology	Mouse	0.981	14	417	Colon	Male	NA	Normal	GSM5587484
+204879580042_R03C02	NA	Intestinal Tumor Biology	Mouse	0.980	14	417	Colon	Male	NA	Normal	GSM5587485
+204879580042_R05C02	NA	Intestinal Tumor Biology	Mouse	0.975	14	417	Colon	Female	NA	Normal	GSM5587486
+204879580042_R06C02	NA	Intestinal Tumor Biology	Mouse	0.975	14	417	Colon	Female	NA	Normal	GSM5587487
+204879580045_R02C01	NA	Intestinal Tumor Biology	Mouse	0.977	14	416	Colon	Female	NA	Normal	GSM5587488
+204879580045_R02C02	NA	Intestinal Tumor Biology	Mouse	0.975	14	414	Colon	Female	NA	Normal	GSM5587489
+204879580045_R03C01	NA	Intestinal Tumor Biology	Mouse	0.974	14	416	Colon	Female	NA	Normal	GSM5587490
+204879580045_R03C02	NA	Intestinal Tumor Biology	Mouse	0.975	14	414	Colon	Female	NA	Normal	GSM5587491
+204879580045_R05C01	NA	Intestinal Tumor Biology	Mouse	0.974	14	416	Colon	Female	NA	Normal	GSM5587492
+204879580045_R05C02	NA	Intestinal Tumor Biology	Mouse	0.976	14.5	432	Colon	Female	NA	Normal	GSM5587493
+204879580045_R06C01	NA	Intestinal Tumor Biology	Mouse	0.971	14	416	Colon	Female	NA	Normal	GSM5587494
+204879580045_R06C02	NA	Intestinal Tumor Biology	Mouse	0.972	14.5	432	Colon	Female	NA	Normal	GSM5587495
+204617710010_R02C01	T6	Intestinal Tumor Biology	Mouse	0.973	6	188	Small Intestine	Female	NA	Tumor	GSM5587132
+204617710010_R03C01	N4	Intestinal Tumor Biology	Mouse	0.968	6	188	Small Intestine	Female	NA	Normal	GSM5587134
+204617710010_R04C01	T13	Intestinal Tumor Biology	Mouse	0.971	6	188	Small Intestine	Female	NA	Tumor	GSM5587136
+204617710010_R05C01	N10	Intestinal Tumor Biology	Mouse	0.965	6	188	Small Intestine	Female	NA	Normal	GSM5587138
+204617710012_R01C02	T1	Intestinal Tumor Biology	Mouse	0.968	6	188	Small Intestine	Female	NA	Tumor	GSM5587107
+204617710012_R02C02	N1	Intestinal Tumor Biology	Mouse	0.970	6	188	Small Intestine	Female	NA	Normal	GSM5587109
+204617710012_R03C01	T23	Intestinal Tumor Biology	Mouse	0.970	6.5	200	Small Intestine	Female	NA	Tumor	GSM5587110
+204617710016_R02C01	T3	Intestinal Tumor Biology	Mouse	0.978	5	157	Small Intestine	Male	NA	Tumor	GSM5587180
+204617710016_R03C01	N4	Intestinal Tumor Biology	Mouse	0.979	5	157	Small Intestine	Male	NA	Normal	GSM5587182
+204617710016_R04C01	T10	Intestinal Tumor Biology	Mouse	0.974	5	157	Small Intestine	Male	NA	Tumor	GSM5587184
+204617710016_R05C01	N10	Intestinal Tumor Biology	Mouse	0.978	5	157	Small Intestine	Male	NA	Normal	GSM5587185
+204617710019_R02C01	T1	Intestinal Tumor Biology	Mouse	0.978	5	157	Small Intestine	Male	NA	Tumor	GSM5587156
+204617710019_R06C02	N10	Intestinal Tumor Biology	Mouse	0.951	6.5	200	Small Intestine	Female	NA	Normal	GSM5587165
+204617710021_R01C01	T3	Intestinal Tumor Biology	Mouse	0.969	6.5	200	Small Intestine	Female	NA	Tumor	GSM5587166
+204617710021_R02C01	N4	Intestinal Tumor Biology	Mouse	0.975	6.5	200	Small Intestine	Female	NA	Normal	GSM5587168
+204617710021_R03C01	N1	Intestinal Tumor Biology	Mouse	0.977	5	157	Small Intestine	Male	NA	Normal	GSM5587170
+204637490014_R01C02	N1	Intestinal Tumor Biology	Mouse	0.965	6	183	Small Intestine	Female	NA	Normal	GSM5587496
+204637490015_R01C01	T1	Intestinal Tumor Biology	Mouse	0.977	4	119	Small Intestine	Male	NA	Tumor	GSM5587497
+204637490015_R02C01	N1	Intestinal Tumor Biology	Mouse	0.981	4	119	Small Intestine	Male	NA	Normal	GSM5587498
+204637490015_R03C01	T1	Intestinal Tumor Biology	Mouse	0.972	12	369	Small Intestine	Male	NA	Tumor	GSM5587499
+204637490015_R04C01	N1	Intestinal Tumor Biology	Mouse	0.974	12	369	Small Intestine	Male	NA	Normal	GSM5587500
+204637490015_R05C01	T1	Intestinal Tumor Biology	Mouse	0.974	18	518	Small Intestine	Male	NA	Tumor	GSM5587501
+204637490015_R06C01	N1	Intestinal Tumor Biology	Mouse	0.970	18	518	Small Intestine	Male	NA	Normal	GSM5587502
+204875570001_R01C01	T2	Intestinal Tumor Biology	Mouse	0.965	13	401	Small Intestine	Female	NA	Tumor	GSM5587503
+204875570001_R01C02	T6	Intestinal Tumor Biology	Mouse	0.964	13	401	Small Intestine	Female	NA	Tumor	GSM5587504
+204875570001_R02C01	N2	Intestinal Tumor Biology	Mouse	0.964	13	401	Small Intestine	Female	NA	Normal	GSM5587505
+204875570001_R02C02	N6	Intestinal Tumor Biology	Mouse	0.967	13	401	Small Intestine	Female	NA	Normal	GSM5587506
+204875570001_R03C01	T3	Intestinal Tumor Biology	Mouse	0.966	13	401	Small Intestine	Female	NA	Tumor	GSM5587507
+204875570001_R03C02	T1	Intestinal Tumor Biology	Mouse	0.970	13	386	Small Intestine	Male	NA	Tumor	GSM5587508
+204875570001_R04C01	N3	Intestinal Tumor Biology	Mouse	0.961	13	401	Small Intestine	Female	NA	Normal	GSM5587509
+204875570001_R04C02	T1	Intestinal Tumor Biology	Mouse	0.965	16.5	501	Small Intestine	Female	NA	Tumor	GSM5587510
+204875570001_R05C01	T5	Intestinal Tumor Biology	Mouse	0.962	13	401	Small Intestine	Female	NA	Tumor	GSM5587511
+204875570001_R05C02	T10	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Tumor	GSM5587512
+204875570001_R06C01	N5	Intestinal Tumor Biology	Mouse	0.964	13	401	Small Intestine	Female	NA	Normal	GSM5587513
+204875570001_R06C02	T11	Intestinal Tumor Biology	Mouse	0.972	7	175	Small Intestine	Female	NA	Tumor	GSM5587514
+204875570004_R01C01	T1	Intestinal Tumor Biology	Mouse	0.967	6	180	Small Intestine	Female	NA	Tumor	GSM5587515
+204875570004_R01C02	T12	Intestinal Tumor Biology	Mouse	0.969	6	180	Small Intestine	Female	NA	Tumor	GSM5587516
+204875570004_R02C01	N1	Intestinal Tumor Biology	Mouse	0.970	6	180	Small Intestine	Female	NA	Normal	GSM5587517
+204875570004_R02C02	N9	Intestinal Tumor Biology	Mouse	0.968	6	180	Small Intestine	Female	NA	Normal	GSM5587518
+204875570004_R03C01	T4	Intestinal Tumor Biology	Mouse	0.968	6	180	Small Intestine	Female	NA	Tumor	GSM5587519
+204875570004_R03C02	N10	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Normal	GSM5587520
+204875570004_R04C01	N7	Intestinal Tumor Biology	Mouse	0.969	6	180	Small Intestine	Female	NA	Normal	GSM5587521
+204875570004_R05C01	T6	Intestinal Tumor Biology	Mouse	0.971	6	180	Small Intestine	Female	NA	Tumor	GSM5587522
+204875570004_R05C02	T1	Intestinal Tumor Biology	Mouse	0.977	7	175	Small Intestine	Female	NA	Tumor	GSM5587523
+204875570004_R06C01	N8	Intestinal Tumor Biology	Mouse	0.969	6	180	Small Intestine	Female	NA	Normal	GSM5587524
+204875570004_R06C02	T2	Intestinal Tumor Biology	Mouse	0.975	7	175	Small Intestine	Female	NA	Tumor	GSM5587525
+204875570008_R05C02	N1	Intestinal Tumor Biology	Mouse	0.972	7	175	Small Intestine	Female	NA	Normal	GSM5587526
+204875570014_R05C01	N9	Intestinal Tumor Biology	Mouse	0.971	7	175	Small Intestine	Female	NA	Normal	GSM5587527
+204875570022_R05C01	N6	Intestinal Tumor Biology	Mouse	0.970	7	175	Small Intestine	Female	NA	Normal	GSM5587528
+204875570028_R01C01	N8	Intestinal Tumor Biology	Mouse	0.970	7	175	Small Intestine	Female	NA	Normal	GSM5587529
+204875570045_R03C02	N2	Intestinal Tumor Biology	Mouse	0.971	7	175	Small Intestine	Female	NA	Normal	GSM5587530
+204875570051_R02C02	N3	Intestinal Tumor Biology	Mouse	0.971	7	175	Small Intestine	Female	NA	Normal	GSM5587531
+204875570055_R01C01	N1	Intestinal Tumor Biology	Mouse	0.969	16.5	501	Small Intestine	Female	NA	Normal	GSM5587532
+204875570055_R01C02	N1	Intestinal Tumor Biology	Mouse	0.980	5.5	168	Small Intestine	Male	NA	Normal	GSM5587533
+204875570055_R02C01	T6	Intestinal Tumor Biology	Mouse	0.970	16.5	501	Small Intestine	Female	NA	Tumor	GSM5587534
+204875570055_R02C02	T5	Intestinal Tumor Biology	Mouse	0.986	5.5	168	Small Intestine	Male	NA	Tumor	GSM5587535
+204875570055_R03C01	N4	Intestinal Tumor Biology	Mouse	0.969	16.5	501	Small Intestine	Female	NA	Normal	GSM5587536
+204875570055_R03C02	N4	Intestinal Tumor Biology	Mouse	0.985	5.5	168	Small Intestine	Male	NA	Normal	GSM5587537
+204875570055_R04C01	T1	Intestinal Tumor Biology	Mouse	0.973	18	540	Small Intestine	Male	NA	Tumor	GSM5587538
+204875570055_R04C02	T1	Intestinal Tumor Biology	Mouse	0.985	6	189	Small Intestine	Male	NA	Tumor	GSM5587539
+204875570055_R05C01	N4	Intestinal Tumor Biology	Mouse	0.979	18	540	Small Intestine	Male	NA	Normal	GSM5587540
+204875570055_R05C02	N1	Intestinal Tumor Biology	Mouse	0.981	6	189	Small Intestine	Male	NA	Normal	GSM5587541
+204875570055_R06C01	T1	Intestinal Tumor Biology	Mouse	0.984	5.5	168	Small Intestine	Male	NA	Tumor	GSM5587542
+204875570055_R06C02	T10	Intestinal Tumor Biology	Mouse	0.988	6	189	Small Intestine	Male	NA	Tumor	GSM5587543
+204875570059_R01C01	T1	Intestinal Tumor Biology	Mouse	0.982	5.5	169	Small Intestine	Male	NA	Tumor	GSM5587544
+204875570059_R01C02	T1	Intestinal Tumor Biology	Mouse	0.983	5	170	Small Intestine	Male	NA	Tumor	GSM5587545
+204875570059_R02C01	N1	Intestinal Tumor Biology	Mouse	0.985	5.5	169	Small Intestine	Male	NA	Normal	GSM5587546
+204875570059_R02C02	N4	Intestinal Tumor Biology	Mouse	0.983	5	170	Small Intestine	Male	NA	Normal	GSM5587547
+204875570059_R03C01	T3	Intestinal Tumor Biology	Mouse	0.973	5.5	169	Small Intestine	Male	NA	Tumor	GSM5587548
+204875570059_R03C02	T23	Intestinal Tumor Biology	Mouse	0.984	5	170	Small Intestine	Male	NA	Tumor	GSM5587549
+204875570059_R04C01	N4	Intestinal Tumor Biology	Mouse	0.984	5.5	169	Small Intestine	Male	NA	Normal	GSM5587550
+204875570059_R04C02	N10	Intestinal Tumor Biology	Mouse	0.984	5	170	Small Intestine	Male	NA	Normal	GSM5587551
+204875570059_R05C01	T18	Intestinal Tumor Biology	Mouse	0.982	5.5	169	Small Intestine	Male	NA	Tumor	GSM5587552
+204875570059_R06C01	N10	Intestinal Tumor Biology	Mouse	0.984	5.5	169	Small Intestine	Male	NA	Normal	GSM5587553
+204875570059_R06C02	N4	Intestinal Tumor Biology	Mouse	0.977	7	175	Small Intestine	Female	NA	Normal	GSM5587554
+204875570067_R01C01	T12	Intestinal Tumor Biology	Mouse	0.973	7	175	Small Intestine	Female	NA	Tumor	GSM5587555
+204875570067_R01C02	T18	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Tumor	GSM5587556
+204875570067_R02C01	T13	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Tumor	GSM5587557
+204875570067_R02C02	T19	Intestinal Tumor Biology	Mouse	0.973	7	175	Small Intestine	Female	NA	Tumor	GSM5587558
+204875570067_R03C01	T14	Intestinal Tumor Biology	Mouse	0.972	7	175	Small Intestine	Female	NA	Tumor	GSM5587559
+204875570067_R03C02	T20	Intestinal Tumor Biology	Mouse	0.971	7	175	Small Intestine	Female	NA	Tumor	GSM5587560
+204875570067_R04C01	T15	Intestinal Tumor Biology	Mouse	0.973	7	175	Small Intestine	Female	NA	Tumor	GSM5587561
+204875570067_R04C02	T21	Intestinal Tumor Biology	Mouse	0.971	7	175	Small Intestine	Female	NA	Tumor	GSM5587562
+204875570067_R05C01	T16	Intestinal Tumor Biology	Mouse	0.973	7	175	Small Intestine	Female	NA	Tumor	GSM5587563
+204875570067_R05C02	T22	Intestinal Tumor Biology	Mouse	0.975	7	175	Small Intestine	Female	NA	Tumor	GSM5587564
+204875570067_R06C01	T17	Intestinal Tumor Biology	Mouse	0.967	7	175	Small Intestine	Female	NA	Tumor	GSM5587565
+204875570067_R06C02	T23	Intestinal Tumor Biology	Mouse	0.975	7	175	Small Intestine	Female	NA	Tumor	GSM5587566
+204875570069_R01C01	T5	Intestinal Tumor Biology	Mouse	0.977	15	465	Small Intestine	Male	NA	Tumor	GSM5587567
+204875570069_R01C02	N1	Intestinal Tumor Biology	Mouse	0.977	13	387	Small Intestine	Male	NA	Normal	GSM5587568
+204875570069_R02C01	N6	Intestinal Tumor Biology	Mouse	0.980	15	465	Small Intestine	Male	NA	Normal	GSM5587569
+204875570069_R02C02	T3	Intestinal Tumor Biology	Mouse	0.978	13	387	Small Intestine	Male	NA	Tumor	GSM5587570
+204875570069_R03C01	T7	Intestinal Tumor Biology	Mouse	0.978	15	465	Small Intestine	Male	NA	Tumor	GSM5587571
+204875570069_R03C02	N4	Intestinal Tumor Biology	Mouse	0.979	13	387	Small Intestine	Male	NA	Normal	GSM5587572
+204875570069_R04C01	N8	Intestinal Tumor Biology	Mouse	0.978	15	465	Small Intestine	Male	NA	Normal	GSM5587573
+204875570069_R04C02	N10	Intestinal Tumor Biology	Mouse	0.980	13	387	Small Intestine	Male	NA	Normal	GSM5587574
+204875570069_R05C01	N9	Intestinal Tumor Biology	Mouse	0.977	15	465	Small Intestine	Male	NA	Normal	GSM5587575
+204875570069_R05C02	T3	Intestinal Tumor Biology	Mouse	0.978	12	369	Small Intestine	Male	NA	Tumor	GSM5587576
+204875570069_R06C01	T1	Intestinal Tumor Biology	Mouse	0.977	13	387	Small Intestine	Male	NA	Tumor	GSM5587577
+204875570069_R06C02	N4	Intestinal Tumor Biology	Mouse	0.973	12	369	Small Intestine	Male	NA	Normal	GSM5587578
+204875570070_R01C01	T8	Intestinal Tumor Biology	Mouse	0.977	7	175	Small Intestine	Female	NA	Tumor	GSM5587579
+204875570070_R01C02	T2	Intestinal Tumor Biology	Mouse	0.969	12	389	Small Intestine	Female	NA	Tumor	GSM5587580
+204875570070_R02C01	N1	Intestinal Tumor Biology	Mouse	0.978	13	386	Small Intestine	Male	NA	Normal	GSM5587581
+204875570070_R02C02	T3	Intestinal Tumor Biology	Mouse	0.964	12	389	Small Intestine	Female	NA	Tumor	GSM5587582
+204875570070_R03C01	T8	Intestinal Tumor Biology	Mouse	0.979	16.5	490	Small Intestine	Male	NA	Tumor	GSM5587583
+204875570070_R03C02	N8	Intestinal Tumor Biology	Mouse	0.972	12	389	Small Intestine	Female	NA	Normal	GSM5587584
+204875570070_R04C01	N10	Intestinal Tumor Biology	Mouse	0.979	16.5	490	Small Intestine	Male	NA	Normal	GSM5587585
+204875570070_R04C02	T4	Intestinal Tumor Biology	Mouse	0.971	12	389	Small Intestine	Female	NA	Tumor	GSM5587586
+204875570070_R05C01	T1	Intestinal Tumor Biology	Mouse	0.970	12	389	Small Intestine	Female	NA	Tumor	GSM5587587
+204875570070_R05C02	N9	Intestinal Tumor Biology	Mouse	0.967	12	389	Small Intestine	Female	NA	Normal	GSM5587588
+204875570070_R06C01	N2	Intestinal Tumor Biology	Mouse	0.971	12	389	Small Intestine	Female	NA	Normal	GSM5587589
+204875570070_R06C02	T9	Intestinal Tumor Biology	Mouse	0.970	7	175	Small Intestine	Female	NA	Tumor	GSM5587590
+204875570071_R03C02	N2	Intestinal Tumor Biology	Mouse	0.971	6	183	Small Intestine	Female	NA	Normal	GSM5587591
+204875570071_R04C02	T2	Intestinal Tumor Biology	Mouse	0.969	6	183	Small Intestine	Female	NA	Tumor	GSM5587592
+204875570071_R05C02	T3	Intestinal Tumor Biology	Mouse	0.968	6	183	Small Intestine	Female	NA	Tumor	GSM5587593
+204875570071_R06C02	N3	Intestinal Tumor Biology	Mouse	0.968	6	183	Small Intestine	Female	NA	Normal	GSM5587594
+204875570073_R01C01	T3	Intestinal Tumor Biology	Mouse	0.978	7	175	Small Intestine	Female	NA	Tumor	GSM5587595
+204875570073_R02C01	T4	Intestinal Tumor Biology	Mouse	0.976	7	175	Small Intestine	Female	NA	Tumor	GSM5587596
+204875570073_R03C01	T5	Intestinal Tumor Biology	Mouse	0.977	7	175	Small Intestine	Female	NA	Tumor	GSM5587597
+204875570073_R03C02	T1	Intestinal Tumor Biology	Mouse	0.963	6	180	Small Intestine	Female	NA	Tumor	GSM5587598
+204875570073_R04C01	T6	Intestinal Tumor Biology	Mouse	0.976	7	175	Small Intestine	Female	NA	Tumor	GSM5587599
+204875570073_R04C02	N1	Intestinal Tumor Biology	Mouse	0.969	6	180	Small Intestine	Female	NA	Normal	GSM5587600
+204875570073_R05C01	T1	Intestinal Tumor Biology	Mouse	0.966	6	181	Small Intestine	Male	NA	Tumor	GSM5587601
+204875570073_R05C02	T3	Intestinal Tumor Biology	Mouse	0.970	6	180	Small Intestine	Female	NA	Tumor	GSM5587602
+204875570073_R06C01	N1	Intestinal Tumor Biology	Mouse	0.974	6	181	Small Intestine	Male	NA	Normal	GSM5587603
+204875570073_R06C02	N3	Intestinal Tumor Biology	Mouse	0.969	6	180	Small Intestine	Female	NA	Normal	GSM5587604
+204875570075_R01C01	T24	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Tumor	GSM5587605
+204875570075_R01C02	T1	Intestinal Tumor Biology	Mouse	0.974	6.5	196	Small Intestine	Female	NA	Tumor	GSM5587606
+204875570075_R02C01	T25	Intestinal Tumor Biology	Mouse	0.972	7	175	Small Intestine	Female	NA	Tumor	GSM5587607
+204875570075_R02C02	N1	Intestinal Tumor Biology	Mouse	0.974	6.5	196	Small Intestine	Female	NA	Normal	GSM5587608
+204875570075_R03C01	T26	Intestinal Tumor Biology	Mouse	0.974	7	175	Small Intestine	Female	NA	Tumor	GSM5587609
+204875570075_R03C02	T5	Intestinal Tumor Biology	Mouse	0.974	6.5	196	Small Intestine	Female	NA	Tumor	GSM5587610
+204875570075_R04C02	N4	Intestinal Tumor Biology	Mouse	0.975	6.5	196	Small Intestine	Female	NA	Normal	GSM5587611
+204875570075_R05C01	T22	Intestinal Tumor Biology	Mouse	0.980	7	204	Small Intestine	Male	NA	Tumor	GSM5587612
+204875570075_R05C02	T16	Intestinal Tumor Biology	Mouse	0.976	6.5	196	Small Intestine	Female	NA	Tumor	GSM5587613
+204875570075_R06C01	N10	Intestinal Tumor Biology	Mouse	0.975	7	204	Small Intestine	Male	NA	Normal	GSM5587614
+204875570075_R06C02	N10	Intestinal Tumor Biology	Mouse	0.971	6.5	196	Small Intestine	Female	NA	Normal	GSM5587615
+204875570076_R01C01	T13	Intestinal Tumor Biology	Mouse	0.974	6.5	198	Small Intestine	Female	NA	Tumor	GSM5587616
+204875570076_R01C02	T16	Intestinal Tumor Biology	Mouse	0.982	5	149	Small Intestine	Male	NA	Tumor	GSM5587617
+204875570076_R02C01	N10	Intestinal Tumor Biology	Mouse	0.973	6.5	198	Small Intestine	Female	NA	Normal	GSM5587618
+204875570076_R02C02	N10	Intestinal Tumor Biology	Mouse	0.984	5	149	Small Intestine	Male	NA	Normal	GSM5587619
+204875570076_R03C01	T1	Intestinal Tumor Biology	Mouse	0.983	5	149	Small Intestine	Male	NA	Tumor	GSM5587620
+204875570076_R03C02	T1	Intestinal Tumor Biology	Mouse	0.978	5.5	174	Small Intestine	Male	NA	Tumor	GSM5587621
+204875570076_R04C01	N1	Intestinal Tumor Biology	Mouse	0.979	5	149	Small Intestine	Male	NA	Normal	GSM5587622
+204875570076_R04C02	N1	Intestinal Tumor Biology	Mouse	0.977	5.5	174	Small Intestine	Male	NA	Normal	GSM5587623
+204875570076_R05C01	T3	Intestinal Tumor Biology	Mouse	0.979	5	149	Small Intestine	Male	NA	Tumor	GSM5587624
+204875570076_R05C02	T3	Intestinal Tumor Biology	Mouse	0.977	5.5	174	Small Intestine	Male	NA	Tumor	GSM5587625
+204875570076_R06C01	N4	Intestinal Tumor Biology	Mouse	0.979	5	149	Small Intestine	Male	NA	Normal	GSM5587626
+204875570076_R06C02	N4	Intestinal Tumor Biology	Mouse	0.977	5.5	174	Small Intestine	Male	NA	Normal	GSM5587627
+204875570078_R01C01	T1	Intestinal Tumor Biology	Mouse	0.970	6	180	Small Intestine	Female	NA	Tumor	GSM5587628
+204875570078_R01C02	T1	Intestinal Tumor Biology	Mouse	0.978	16.5	506	Small Intestine	Male	NA	Tumor	GSM5587629
+204875570078_R02C01	N1	Intestinal Tumor Biology	Mouse	0.974	6	180	Small Intestine	Female	NA	Normal	GSM5587630
+204875570078_R02C02	N4	Intestinal Tumor Biology	Mouse	0.980	16.5	506	Small Intestine	Male	NA	Normal	GSM5587631
+204875570078_R03C01	T8	Intestinal Tumor Biology	Mouse	0.971	6	180	Small Intestine	Female	NA	Tumor	GSM5587632
+204875570078_R03C02	T3	Intestinal Tumor Biology	Mouse	0.971	18	542	Small Intestine	Female	NA	Tumor	GSM5587633
+204875570078_R04C01	T10	Intestinal Tumor Biology	Mouse	0.967	6	180	Small Intestine	Female	NA	Tumor	GSM5587634
+204875570078_R04C02	N4	Intestinal Tumor Biology	Mouse	0.971	18	542	Small Intestine	Female	NA	Normal	GSM5587635
+204875570078_R05C01	T1	Intestinal Tumor Biology	Mouse	0.971	6	180	Small Intestine	Female	NA	Tumor	GSM5587636
+204875570078_R05C02	T2	Intestinal Tumor Biology	Mouse	0.976	15	465	Small Intestine	Male	NA	Tumor	GSM5587637
+204875570078_R06C01	N1	Intestinal Tumor Biology	Mouse	0.970	6	180	Small Intestine	Female	NA	Normal	GSM5587638
+204875570078_R06C02	N5	Intestinal Tumor Biology	Mouse	0.974	15	465	Small Intestine	Male	NA	Normal	GSM5587639
+204875570082_R01C01	T19	Intestinal Tumor Biology	Mouse	0.981	5.5	174	Small Intestine	Male	NA	Tumor	GSM5587640
+204875570082_R01C02	N4	Intestinal Tumor Biology	Mouse	0.981	4	119	Small Intestine	Male	NA	Normal	GSM5587641
+204875570082_R02C01	N10	Intestinal Tumor Biology	Mouse	0.981	5.5	174	Small Intestine	Male	NA	Normal	GSM5587642
+204875570082_R02C02	T7	Intestinal Tumor Biology	Mouse	0.978	4	119	Small Intestine	Male	NA	Tumor	GSM5587643
+204875570082_R03C01	T1	Intestinal Tumor Biology	Mouse	0.972	7	219	Small Intestine	Female	NA	Tumor	GSM5587644
+204875570082_R03C02	N10	Intestinal Tumor Biology	Mouse	0.982	4	119	Small Intestine	Male	NA	Normal	GSM5587645
+204875570082_R04C01	N4	Intestinal Tumor Biology	Mouse	0.975	7	219	Small Intestine	Female	NA	Normal	GSM5587646
+204875570082_R04C02	T1	Intestinal Tumor Biology	Mouse	0.972	4	118	Small Intestine	Female	NA	Tumor	GSM5587647
+204875570082_R05C01	T21	Intestinal Tumor Biology	Mouse	0.969	7	219	Small Intestine	Female	NA	Tumor	GSM5587648
+204875570082_R05C02	N1	Intestinal Tumor Biology	Mouse	0.972	4	118	Small Intestine	Female	NA	Normal	GSM5587649
+204875570082_R06C01	T3	Intestinal Tumor Biology	Mouse	0.978	4	119	Small Intestine	Male	NA	Tumor	GSM5587650
+204875570082_R06C02	T16	Intestinal Tumor Biology	Mouse	0.973	4	118	Small Intestine	Female	NA	Tumor	GSM5587651
+204875570085_R01C01	N10	Intestinal Tumor Biology	Mouse	0.971	4	118	Small Intestine	Female	NA	Normal	GSM5587652
+204875570085_R01C02	N1	Intestinal Tumor Biology	Mouse	0.973	6.5	205	Small Intestine	Male	NA	Normal	GSM5587653
+204875570085_R02C01	T1	Intestinal Tumor Biology	Mouse	0.977	5	148	Small Intestine	Male	NA	Tumor	GSM5587654
+204875570085_R02C02	T5	Intestinal Tumor Biology	Mouse	0.975	6.5	205	Small Intestine	Male	NA	Tumor	GSM5587655
+204875570085_R03C01	N1	Intestinal Tumor Biology	Mouse	0.977	5	148	Small Intestine	Male	NA	Normal	GSM5587656
+204875570085_R03C02	N4	Intestinal Tumor Biology	Mouse	0.982	6.5	205	Small Intestine	Male	NA	Normal	GSM5587657
+204875570085_R04C01	T12	Intestinal Tumor Biology	Mouse	0.982	5	148	Small Intestine	Male	NA	Tumor	GSM5587658
+204875570085_R04C02	T21	Intestinal Tumor Biology	Mouse	0.978	6.5	205	Small Intestine	Male	NA	Tumor	GSM5587659
+204875570085_R05C01	N10	Intestinal Tumor Biology	Mouse	0.971	5	148	Small Intestine	Male	NA	Normal	GSM5587660
+204875570085_R05C02	N10	Intestinal Tumor Biology	Mouse	0.981	6.5	205	Small Intestine	Male	NA	Normal	GSM5587661
+204875570085_R06C01	T1	Intestinal Tumor Biology	Mouse	0.976	6.5	205	Small Intestine	Male	NA	Tumor	GSM5587662
+204875570085_R06C02	T1	Intestinal Tumor Biology	Mouse	0.978	7	213	Small Intestine	Male	NA	Tumor	GSM5587663
+204875570086_R01C01	N2	Intestinal Tumor Biology	Mouse	0.962	7	213	Small Intestine	Male	NA	Normal	GSM5587664
+204875570086_R01C02	T1	Intestinal Tumor Biology	Mouse	0.965	12	362	Small Intestine	Male	NA	Tumor	GSM5587665
+204875570086_R02C02	T2	Intestinal Tumor Biology	Mouse	0.971	12	362	Small Intestine	Male	NA	Tumor	GSM5587666
+204875570086_R05C02	N7	Intestinal Tumor Biology	Mouse	0.975	12	362	Small Intestine	Male	NA	Normal	GSM5587667
+204875570087_R01C01	T1	Intestinal Tumor Biology	Mouse	0.946	5	161	Small Intestine	Male	NA	Tumor	GSM5587668
+204875570087_R02C01	N1	Intestinal Tumor Biology	Mouse	0.954	5	161	Small Intestine	Male	NA	Normal	GSM5587669
+204875570087_R03C01	T5	Intestinal Tumor Biology	Mouse	0.974	5	161	Small Intestine	Male	NA	Tumor	GSM5587670
+204875570087_R04C01	N4	Intestinal Tumor Biology	Mouse	0.960	5	161	Small Intestine	Male	NA	Normal	GSM5587671
+204637490011_R01C01	Colorectal PDX	PDX	Human-Mouse Mix	0.807	NA	NA	NA	Male	NA	NA	GSM5587672
+204637490011_R01C02	Colorectal PDX	PDX	Human-Mouse Mix	0.919	NA	NA	NA	Male	NA	NA	GSM5587673
+204637490011_R02C01	Colorectal PDX	PDX	Human-Mouse Mix	0.912	NA	NA	NA	Female	NA	NA	GSM5587674
+204637490011_R02C02	Colorectal PDX	PDX	Human-Mouse Mix	0.959	NA	NA	NA	Female	NA	NA	GSM5587675
+204637490011_R03C01	Colorectal PDX	PDX	Human-Mouse Mix	0.868	NA	NA	NA	Female	NA	NA	GSM5587676
+204637490011_R03C02	Colorectal PDX	PDX	Human-Mouse Mix	0.823	NA	NA	NA	Male	NA	NA	GSM5587677
+204637490011_R04C01	Colorectal PDX	PDX	Human-Mouse Mix	0.863	NA	NA	NA	Female	NA	NA	GSM5587678
+204637490011_R04C02	Colorectal PDX	PDX	Human-Mouse Mix	0.951	NA	NA	NA	Female	NA	NA	GSM5587679
+204637490011_R05C01	Colorectal PDX	PDX	Human-Mouse Mix	0.907	NA	NA	NA	Female	NA	NA	GSM5587680
+204637490011_R06C01	Colorectal PDX	PDX	Human-Mouse Mix	0.957	NA	NA	NA	Male	NA	NA	GSM5587681
+204637490024_R01C02	Colorectal PDX	PDX	Human-Mouse Mix	0.960	NA	NA	NA	Female	NA	NA	GSM5587682
+204637490024_R02C02	Colorectal PDX	PDX	Human-Mouse Mix	0.851	NA	NA	NA	Male	NA	NA	GSM5587683
+204637490024_R03C02	Colorectal PDX	PDX	Human-Mouse Mix	0.921	NA	NA	NA	Female	NA	NA	GSM5587684
+204637490024_R04C02	Colorectal PDX	PDX	Human-Mouse Mix	0.929	NA	NA	NA	Female	NA	NA	GSM5587685
+204637490024_R05C02	Colorectal PDX	PDX	Human-Mouse Mix	0.932	NA	NA	NA	Female	NA	NA	GSM5587686
+204637490024_R06C01	Colorectal PDX	PDX	Human-Mouse Mix	0.947	NA	NA	NA	Male	NA	NA	GSM5587687
+204637490024_R06C02	Colorectal PDX	PDX	Human-Mouse Mix	0.929	NA	NA	NA	Female	NA	NA	GSM5587688
+204637490001_R01C02	5% Methylated Genomic DNA	Rat DNA Titration	Rat	0.251	NA	NA	NA	Male	NA	NA	GSM5587689
+204637490001_R02C02	10% Methylated Genomic DNA	Rat DNA Titration	Rat	0.258	NA	NA	NA	Female	NA	NA	GSM5587690
+204637490001_R03C02	25% Methylated Genomic DNA	Rat DNA Titration	Rat	0.259	NA	NA	NA	Female	NA	NA	GSM5587691
+204637490001_R04C02	50% Methylated Genomic DNA	Rat DNA Titration	Rat	0.259	NA	NA	NA	Female	NA	NA	GSM5587692
+204637490001_R05C02	75% Methylated Genomic DNA	Rat DNA Titration	Rat	0.258	NA	NA	NA	Female	NA	NA	GSM5587693
+204637490001_R06C01	0% Methylated Genomic DNA	Rat DNA Titration	Rat	0.265	NA	NA	NA	Male	NA	NA	GSM5587694
+204637490001_R06C02	100% Methylated Genomic DNA	Rat DNA Titration	Rat	0.252	NA	NA	NA	Female	NA	NA	GSM5587695
+204875570010_R05C01	NA	Rat Tissue	Rat	0.270	1	35	Cecum	Female	NA	NA	GSM5587696
+204875570010_R01C01	C6	Rat Tissue	Rat	0.265	1	35	Colon	Female	NA	NA	GSM5587697
+204875570018_R05C02	C1	Rat Tissue	Rat	0.266	1	35	Colon	Female	NA	NA	GSM5587698
+204875570018_R06C02	C3	Rat Tissue	Rat	0.260	1	35	Colon	Female	NA	NA	GSM5587699
+204875570010_R02C01	E1	Rat Tissue	Rat	0.274	1	35	Esophagus	Female	NA	NA	GSM5587700
+204875570010_R03C01	E2	Rat Tissue	Rat	0.272	1	35	Esophagus	Female	NA	NA	GSM5587701
+204875570010_R02C02	NA	Rat Tissue	Rat	0.249	1	35	Fat	Female	NA	NA	GSM5587702
+204637490001_R01C01	NA	Rat Tissue	Rat	0.251	1	35	Frontal Lobe Brain	Female	NA	NA	GSM5587703
+204637490001_R02C01	NA	Rat Tissue	Rat	0.255	1	35	Heart	Female	NA	NA	GSM5587704
+204875570010_R06C01	NA	Rat Tissue	Rat	0.266	1	35	Hind Brain	Female	NA	NA	GSM5587705
+204637490001_R04C01	NA	Rat Tissue	Rat	0.252	1	35	Kidney	Female	NA	NA	GSM5587706
+204637490001_R03C01	NA	Rat Tissue	Rat	0.229	1	35	Liver	Female	NA	NA	GSM5587707
+204875570010_R01C02	NA	Rat Tissue	Rat	0.264	1	35	Lung	Female	NA	NA	GSM5587708
+204875570010_R03C02	NA	Rat Tissue	Rat	0.331	1	35	Muscle	Male	NA	NA	GSM5587709
+204637490011_R06C02	SI1	Rat Tissue	Rat	0.247	1	35	Small Intestine	Female	NA	Normal	GSM5587710
+204875570018_R03C02	SI6	Rat Tissue	Rat	0.267	1	35	Small Intestine	Female	NA	Normal	GSM5587711
+204875570018_R04C02	SI20	Rat Tissue	Rat	0.267	1	35	Small Intestine	Female	NA	NA	GSM5587712
+204637490001_R05C01	NA	Rat Tissue	Rat	0.251	1	35	Spleen	Female	NA	NA	GSM5587713
+204637490011_R05C02	S1	Rat Tissue	Rat	0.244	1	35	Stomach	Female	NA	NA	GSM5587714
+204875570010_R04C01	S2	Rat Tissue	Rat	0.274	1	35	Stomach	Female	NA	NA	GSM5587715
+204617710010_R03C02	NA	Reproducibility	Mouse	0.951	2	63	Colon	Male	NA	Tumor	GSM5587135
+204617710012_R01C01	NA	Reproducibility	Mouse	0.954	2	63	Colon	Male	NA	Tumor	GSM5587106
+204617710012_R02C01	NA	Reproducibility	Mouse	0.951	2	63	Colon	Male	NA	Tumor	GSM5587108
+204617710016_R03C02	NA	Reproducibility	Mouse	0.959	2	63	Colon	Male	NA	Tumor	GSM5587183
+204617710004_R06C02	NA	Reproducibility	Mouse	0.973	9	287	NA	Male	NA	Tumor	GSM5587199
+204617710010_R01C01	NA	Reproducibility	Mouse	0.942	3	100	NA	Male	NA	Tumor	GSM5587130
+204617710011_R03C01	NA	Reproducibility	Mouse	0.973	13	387	NA	Male	NA	Tumor	GSM5587212
+204617710011_R03C02	NA	Reproducibility	Mouse	0.969	13	387	NA	Male	NA	Tumor	GSM5587213
+204617710012_R03C02	NA	Reproducibility	Mouse	0.949	3	100	NA	Male	NA	Tumor	GSM5587111
+204617710012_R06C02	NA	Reproducibility	Mouse	0.944	3	100	NA	Male	NA	Tumor	GSM5587117
+204617710015_R05C02	NA	Reproducibility	Mouse	0.973	13	387	NA	Male	NA	Tumor	GSM5587127
+204617710016_R01C01	NA	Reproducibility	Mouse	0.972	9	287	NA	Male	NA	Tumor	GSM5587178
+204617710016_R06C02	NA	Reproducibility	Mouse	0.947	3	100	NA	Male	NA	Tumor	GSM5587187
+204617710019_R01C01	NA	Reproducibility	Mouse	0.964	9	287	NA	Male	NA	Tumor	GSM5587154
+204617710019_R03C01	NA	Reproducibility	Mouse	0.972	13	387	NA	Male	NA	Tumor	GSM5587158
+204617710004_R01C02	NA	Reproducibility	Mouse	0.964	9	287	NA	Male	NA	Tumor	GSM5587189
+204637490023_R01C01	CD8 T cells	Sorted Blood Panel	Mouse	0.950	2	NA	Lymphocytes	Male	WT	Normal	GSM5587716
+204637490023_R01C02	B cells	Sorted Blood Panel	Mouse	0.947	2	NA	Lymphocytes	Female	WT	Normal	GSM5587717
+204637490023_R02C01	CD4 T cells	Sorted Blood Panel	Mouse	0.958	2	NA	Lymphocytes	Male	WT	Normal	GSM5587718
+204637490023_R03C01	B cells	Sorted Blood Panel	Mouse	0.964	2	NA	Lymphocytes	Male	WT	Normal	GSM5587719
+204637490023_R05C01	CD8 T cells	Sorted Blood Panel	Mouse	0.947	2	NA	Lymphocytes	Female	WT	Normal	GSM5587720
+204637490023_R06C01	CD4 T cells	Sorted Blood Panel	Mouse	0.946	2	NA	Lymphocytes	Female	WT	Normal	GSM5587721
+204875570010_R04C02	CD4 T cells	Sorted Blood Panel	Mouse	0.952	3	NA	Lymphocytes	Male	WT	Normal	GSM5587722
+204875570010_R05C02	CD8 T cells	Sorted Blood Panel	Mouse	0.940	3	NA	Lymphocytes	Male	WT	Normal	GSM5587723
+204875570010_R06C02	B cells	Sorted Blood Panel	Mouse	0.948	3	NA	Lymphocytes	Male	WT	Normal	GSM5587724
+204875570047_R02C01	CD4 T cells	Sorted Blood Panel	Mouse	0.933	3	NA	Lymphocytes	Female	WT	Normal	GSM5587725
+204875570047_R03C01	CD8 T cells	Sorted Blood Panel	Mouse	0.908	3	NA	Lymphocytes	Female	WT	Normal	GSM5587726
+204875570047_R04C01	B cells	Sorted Blood Panel	Mouse	0.906	3	NA	Lymphocytes	Female	WT	Normal	GSM5587727
+204879580010_R02C01	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.971	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587728
+204879580010_R03C01	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.978	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587729
+204879580010_R03C02	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.977	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587730
+204879580010_R04C01	CD19 B cells via EasySep	Sorted Blood Panel	Mouse	0.978	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587731
+204879580010_R04C02	B cells via EasySep	Sorted Blood Panel	Mouse	0.984	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587732
+204879580010_R05C02	CD49b NK cells via EasySep	Sorted Blood Panel	Mouse	0.979	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587733
+204879580010_R06C01	CD49b NK cells via EasySep	Sorted Blood Panel	Mouse	0.971	2.5	75	Lymphocytes	Male	WT	Normal	GSM5587734
+204879580011_R02C01	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.819	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587735
+204879580011_R03C01	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.889	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587736
+204879580011_R03C02	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.968	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587737
+204879580011_R04C01	B cells via EasySep	Sorted Blood Panel	Mouse	0.976	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587738
+204879580011_R04C02	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.969	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587739
+204879580011_R05C02	B cells via EasySep	Sorted Blood Panel	Mouse	0.978	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587740
+204879580011_R06C01	CD49b NK cells via EasySep	Sorted Blood Panel	Mouse	0.946	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587741
+204879580012_R01C01	CD49b NK cells via EasySep	Sorted Blood Panel	Mouse	0.975	2.5	75	Lymphocytes	Female	WT	Normal	GSM5587742
+204879580012_R04C01	CD8 T cells	Sorted Blood Panel	Mouse	0.842	2	NA	Lymphocytes	Female	WT	Normal	GSM5587743
+204879580012_R05C01	CD4 T cells	Sorted Blood Panel	Mouse	0.890	2	NA	Lymphocytes	Female	WT	Normal	GSM5587744
+204879580012_R06C01	B cells	Sorted Blood Panel	Mouse	0.890	2	NA	Lymphocytes	Female	WT	Normal	GSM5587745
+204879580039_R01C01	CD4 T cells	Sorted Blood Panel	Mouse	0.936	2	56	Lymphocytes	Male	WT	Normal	GSM5587746
+204879580039_R01C02	B cells	Sorted Blood Panel	Mouse	0.814	2	56	Lymphocytes	Female	WT	Normal	GSM5587747
+204879580039_R03C01	B cells	Sorted Blood Panel	Mouse	0.965	2	56	Lymphocytes	Male	WT	Normal	GSM5587748
+204879580039_R03C02	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.961	2	55	Lymphocytes	Male	WT	Normal	GSM5587749
+204879580039_R04C02	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.937	2	55	Lymphocytes	Male	WT	Normal	GSM5587750
+204879580039_R05C01	CD4 T cells	Sorted Blood Panel	Mouse	0.787	2	56	Lymphocytes	Female	WT	Normal	GSM5587751
+204879580039_R05C02	B cells via EasySep	Sorted Blood Panel	Mouse	0.974	2	55	Lymphocytes	Male	WT	Normal	GSM5587752
+204879580044_R01C01	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.978	2	55	Lymphocytes	Female	WT	Normal	GSM5587753
+204879580044_R01C02	B cells via EasySep	Sorted Blood Panel	Mouse	0.968	2	55	Lymphocytes	Female	WT	Normal	GSM5587754
+204879580044_R02C01	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.979	2	55	Lymphocytes	Female	WT	Normal	GSM5587755
+204879580044_R03C01	B cells via EasySep	Sorted Blood Panel	Mouse	0.987	2	55	Lymphocytes	Male	WT	Normal	GSM5587756
+204879580044_R03C02	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.985	2	55	Lymphocytes	Male	WT	Normal	GSM5587757
+204879580044_R04C02	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.987	2	55	Lymphocytes	Male	WT	Normal	GSM5587758
+204879580044_R05C01	CD4 T cells via EasySep	Sorted Blood Panel	Mouse	0.966	2	55	Lymphocytes	Female	WT	Normal	GSM5587759
+204879580044_R05C02	B cells via EasySep	Sorted Blood Panel	Mouse	0.979	2	55	Lymphocytes	Female	WT	Normal	GSM5587760
+204879580044_R06C01	CD8 T cells via EasySep	Sorted Blood Panel	Mouse	0.975	2	55	Lymphocytes	Female	WT	Normal	GSM5587761
+204879580010_R02C02	CD11b+Gr1+ via EasySep	Sorted Blood Panel	Mouse	0.917	2.5	75	MDSC	Male	WT	Normal	GSM5587762
+204879580011_R01C01	CD11b+Gr1+ via EasySep	Sorted Blood Panel	Mouse	0.970	2.5	75	MDSC	Male	WT	Normal	GSM5587763
+204879580011_R02C02	CD11b+Gr1+ via EasySep	Sorted Blood Panel	Mouse	0.824	2.5	75	MDSC	Female	WT	Normal	GSM5587764
+204879580012_R03C01	CD11b+Gr1+ via EasySep	Sorted Blood Panel	Mouse	0.967	2.5	75	MDSC	Female	WT	Normal	GSM5587765
+204637490023_R02C02	NA	Sorted Blood Panel	Mouse	0.940	2	NA	Monocytes	Female	WT	Normal	GSM5587766
+204637490023_R04C01	NA	Sorted Blood Panel	Mouse	0.961	2	NA	Monocytes	Male	WT	Normal	GSM5587767
+204875570047_R01C01	NA	Sorted Blood Panel	Mouse	0.784	3	NA	Monocytes	Male	WT	Normal	GSM5587768
+204875570047_R05C01	NA	Sorted Blood Panel	Mouse	0.880	3	NA	Monocytes	Female	WT	Normal	GSM5587769
+204879580010_R05C01	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.976	2.5	75	Monocytes	Male	WT	Normal	GSM5587770
+204879580011_R05C01	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.755	2.5	75	Monocytes	Female	WT	Normal	GSM5587771
+204879580011_R06C02	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.944	2.5	75	Monocytes	Female	WT	Normal	GSM5587772
+204879580012_R01C02	NA	Sorted Blood Panel	Mouse	0.845	2	NA	Monocytes	Female	WT	Normal	GSM5587773
+204879580039_R02C02	NA	Sorted Blood Panel	Mouse	0.865	2	56	Monocytes	Female	WT	Normal	GSM5587774
+204879580039_R04C01	NA	Sorted Blood Panel	Mouse	0.829	2	56	Monocytes	Male	WT	Normal	GSM5587775
+204879580039_R06C02	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.944	2	55	Monocytes	Male	WT	Normal	GSM5587776
+204879580044_R02C02	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.900	2	55	Monocytes	Female	WT	Normal	GSM5587777
+204879580044_R04C01	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.973	2	55	Monocytes	Female	WT	Normal	GSM5587778
+204879580044_R06C02	Monocytes via EasySep	Sorted Blood Panel	Mouse	0.962	2	55	Monocytes	Male	WT	Normal	GSM5587779
+204879580010_R01C02	Neutrophils via EasySep	Sorted Blood Panel	Mouse	0.969	2.5	75	Neutrophils	Male	WT	Normal	GSM5587780
+204879580010_R06C02	Neutrophils via EasySep	Sorted Blood Panel	Mouse	0.974	2.5	75	Neutrophils	Male	WT	Normal	GSM5587781
+204879580011_R01C02	Neutrophils via EasySep	Sorted Blood Panel	Mouse	0.942	2.5	75	Neutrophils	Female	WT	Normal	GSM5587782
+204879580012_R02C01	Neutrophils via EasySep	Sorted Blood Panel	Mouse	0.969	2.5	75	Neutrophils	Female	WT	Normal	GSM5587783
+204617710004_R02C01	NA	Strain SNP	Mouse	0.981	31	952	Colon	Male	WT	Normal	GSM5587190
+204875570013_R01C01	NA	Strain SNP	Mouse	0.964	2	58	Frontal Lobe Brain	Female	WT	Normal	GSM5587784
+204875570013_R01C02	NA	Strain SNP	Mouse	0.966	2	62	Frontal Lobe Brain	Female	WT	Normal	GSM5587785
+204875570013_R02C01	NA	Strain SNP	Mouse	0.980	2	59	Frontal Lobe Brain	Male	WT	Normal	GSM5587786
+204875570013_R02C02	NA	Strain SNP	Mouse	0.979	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587787
+204875570013_R03C01	NA	Strain SNP	Mouse	0.969	2	59	Frontal Lobe Brain	Female	WT	Normal	GSM5587788
+204875570013_R03C02	NA	Strain SNP	Mouse	0.971	2	55	Frontal Lobe Brain	Female	WT	Normal	GSM5587789
+204875570013_R04C01	NA	Strain SNP	Mouse	0.978	2	59	Frontal Lobe Brain	Male	WT	Normal	GSM5587790
+204875570013_R04C02	NA	Strain SNP	Mouse	0.975	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587791
+204875570013_R05C01	NA	Strain SNP	Mouse	0.964	2	59	Frontal Lobe Brain	Female	WT	Normal	GSM5587792
+204875570013_R05C02	NA	Strain SNP	Mouse	0.969	2	55	Frontal Lobe Brain	Female	WT	Normal	GSM5587793
+204875570013_R06C01	NA	Strain SNP	Mouse	0.970	2	62	Frontal Lobe Brain	Male	WT	Normal	GSM5587794
+204875570013_R06C02	NA	Strain SNP	Mouse	0.979	2	58	Frontal Lobe Brain	Male	WT	Normal	GSM5587795
+204875570030_R01C01	NA	Strain SNP	Mouse	0.976	2	58	Frontal Lobe Brain	Female	WT	Normal	GSM5587796
+204875570030_R01C02	NA	Strain SNP	Mouse	0.922	2	55	Frontal Lobe Brain	Female	WT	Normal	GSM5587797
+204875570030_R02C01	NA	Strain SNP	Mouse	0.975	2	57	Frontal Lobe Brain	Male	WT	Normal	GSM5587798
+204875570030_R02C02	NA	Strain SNP	Mouse	0.928	2	62	Frontal Lobe Brain	Male	WT	Normal	GSM5587799
+204875570030_R03C01	NA	Strain SNP	Mouse	0.975	2	57	Frontal Lobe Brain	Female	WT	Normal	GSM5587800
+204875570030_R03C02	NA	Strain SNP	Mouse	0.924	2	62	Frontal Lobe Brain	Female	WT	Normal	GSM5587801
+204875570030_R04C01	NA	Strain SNP	Mouse	0.914	2	57	Frontal Lobe Brain	Male	WT	Normal	GSM5587802
+204875570030_R04C02	NA	Strain SNP	Mouse	0.969	2	49	Frontal Lobe Brain	Male	WT	Normal	GSM5587803
+204875570030_R05C01	NA	Strain SNP	Mouse	0.921	2	57	Frontal Lobe Brain	Female	WT	Normal	GSM5587804
+204875570030_R05C02	NA	Strain SNP	Mouse	0.968	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587805
+204875570030_R06C01	NA	Strain SNP	Mouse	0.930	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587806
+204875570030_R06C02	NA	Strain SNP	Mouse	0.958	2	62	Frontal Lobe Brain	Male	WT	Normal	GSM5587807
+204875570034_R01C01	NA	Strain SNP	Mouse	0.967	2	43	Frontal Lobe Brain	Female	WT	Normal	GSM5587808
+204875570034_R01C02	NA	Strain SNP	Mouse	0.969	2	62	Frontal Lobe Brain	Female	WT	Normal	GSM5587809
+204875570034_R02C01	NA	Strain SNP	Mouse	0.977	2	58	Frontal Lobe Brain	Male	WT	Normal	GSM5587810
+204875570034_R02C02	NA	Strain SNP	Mouse	0.972	2	58	Frontal Lobe Brain	Male	WT	Normal	GSM5587811
+204875570034_R03C01	NA	Strain SNP	Mouse	0.969	2	58	Frontal Lobe Brain	Female	WT	Normal	GSM5587812
+204875570034_R03C02	NA	Strain SNP	Mouse	0.964	2	58	Frontal Lobe Brain	Female	WT	Normal	GSM5587813
+204875570034_R04C01	NA	Strain SNP	Mouse	0.967	2	57	Frontal Lobe Brain	Male	WT	Normal	GSM5587814
+204875570034_R04C02	NA	Strain SNP	Mouse	0.975	2	59	Frontal Lobe Brain	Male	WT	Normal	GSM5587815
+204875570034_R05C01	NA	Strain SNP	Mouse	0.965	2	57	Frontal Lobe Brain	Female	WT	Normal	GSM5587816
+204875570034_R05C02	NA	Strain SNP	Mouse	0.967	2	59	Frontal Lobe Brain	Female	WT	Normal	GSM5587817
+204875570034_R06C01	NA	Strain SNP	Mouse	0.966	2	62	Frontal Lobe Brain	Female	WT	Normal	GSM5587818
+204875570034_R06C02	NA	Strain SNP	Mouse	0.961	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587819
+204875570035_R01C01	NA	Strain SNP	Mouse	0.957	2	55	Frontal Lobe Brain	Female	WT	Normal	GSM5587820
+204875570083_R01C02	NA	Strain SNP	Mouse	0.958	2	59	Frontal Lobe Brain	Female	WT	Normal	GSM5587821
+204875570083_R02C02	NA	Strain SNP	Mouse	0.967	2	59	Frontal Lobe Brain	Male	WT	Normal	GSM5587822
+204875570083_R03C01	NA	Strain SNP	Mouse	0.966	2	57	Frontal Lobe Brain	Female	WT	Normal	GSM5587823
+204875570083_R03C02	NA	Strain SNP	Mouse	0.964	2	59	Frontal Lobe Brain	Female	WT	Normal	GSM5587824
+204875570083_R04C01	NA	Strain SNP	Mouse	0.975	2	55	Frontal Lobe Brain	Male	WT	Normal	GSM5587825
+204875570083_R04C02	NA	Strain SNP	Mouse	0.966	2	57	Frontal Lobe Brain	Male	WT	Normal	GSM5587826
+204875570083_R05C01	NA	Strain SNP	Mouse	0.964	2	49	Frontal Lobe Brain	Female	WT	Normal	GSM5587827
+204875570083_R05C02	NA	Strain SNP	Mouse	0.968	2	57	Frontal Lobe Brain	Female	WT	Normal	GSM5587828
+204875570083_R06C01	NA	Strain SNP	Mouse	0.965	2	59	Frontal Lobe Brain	Male	WT	Normal	GSM5587829
+204875570083_R06C02	NA	Strain SNP	Mouse	0.961	2	58	Frontal Lobe Brain	Male	WT	Normal	GSM5587830
+204875570040_R02C02	NA	Strain SNP	Mouse	0.928	1.5	58	Liver	Male	WT	Normal	GSM5587831
+204617710004_R03C01	NA	Strain SNP	Mouse	0.955	2	62	Liver	Male	WT	Normal	GSM5587192
+204617710004_R04C01	NA	Strain SNP	Mouse	0.963	2	62	Liver	Male	WT	Normal	GSM5587194
+204617710004_R05C01	NA	Strain SNP	Mouse	0.936	2	62	Liver	Male	WT	Normal	GSM5587196
+204617710004_R06C01	NA	Strain SNP	Mouse	0.929	5	NA	Liver	Female	WT	Normal	GSM5587198
+204875570017_R03C02	NA	Strain SNP	Mouse	0.961	1.5	59	Liver	Female	WT	Normal	GSM5587832
+204875570017_R04C02	NA	Strain SNP	Mouse	0.913	1.5	59	Liver	Male	WT	Normal	GSM5587833
+204875570017_R05C02	NA	Strain SNP	Mouse	0.940	1.5	59	Liver	Female	WT	Normal	GSM5587834
+204875570017_R06C02	NA	Strain SNP	Mouse	0.878	1.5	59	Liver	Female	WT	Normal	GSM5587835
+204875570035_R01C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.956	2	57	Liver	Female	WT	Normal	GSM5587836
+204875570035_R02C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.970	2	59	Liver	Male	WT	Normal	GSM5587837
+204875570035_R02C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.960	2	59	Liver	Female	WT	Normal	GSM5587838
+204875570035_R03C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.971	2	59	Liver	Male	WT	Normal	GSM5587839
+204875570035_R03C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.976	2	57	Liver	Male	WT	Normal	GSM5587840
+204875570035_R04C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.967	2	62	Liver	Male	WT	Normal	GSM5587841
+204875570035_R04C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.980	2	58	Liver	Male	WT	Normal	GSM5587842
+204875570035_R05C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.963	2	62	Liver	Female	WT	Normal	GSM5587843
+204875570035_R05C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.923	2	57	Liver	Male	WT	Normal	GSM5587844
+204875570035_R06C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.945	2	57	Liver	Male	WT	Normal	GSM5587845
+204875570035_R06C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.915	2	57	Liver	Female	WT	Normal	GSM5587846
+204875570037_R01C01	NA	Strain SNP	Mouse	0.942	1.5	55	Liver	Female	WT	Normal	GSM5587847
+204875570037_R01C02	NA	Strain SNP	Mouse	0.938	1.5	59	Liver	Female	WT	Normal	GSM5587848
+204875570037_R02C01	NA	Strain SNP	Mouse	0.950	1.5	55	Liver	Male	WT	Normal	GSM5587849
+204875570037_R02C02	NA	Strain SNP	Mouse	0.939	1.5	59	Liver	Male	WT	Normal	GSM5587850
+204875570037_R03C01	NA	Strain SNP	Mouse	0.938	1.5	62	Liver	Female	WT	Normal	GSM5587851
+204875570037_R03C02	NA	Strain SNP	Mouse	0.974	1.5	57	Liver	Female	WT	Normal	GSM5587852
+204875570037_R04C01	NA	Strain SNP	Mouse	0.921	1.5	62	Liver	Male	WT	Normal	GSM5587853
+204875570037_R04C02	NA	Strain SNP	Mouse	0.846	1.5	57	Liver	Male	WT	Normal	GSM5587854
+204875570037_R05C01	NA	Strain SNP	Mouse	0.917	1.5	57	Liver	Female	WT	Normal	GSM5587855
+204875570037_R05C02	NA	Strain SNP	Mouse	0.969	1.5	58	Liver	Female	WT	Normal	GSM5587856
+204875570037_R06C01	NA	Strain SNP	Mouse	0.799	1.5	57	Liver	Male	WT	Normal	GSM5587857
+204875570037_R06C02	NA	Strain SNP	Mouse	0.931	1.5	58	Liver	Male	WT	Normal	GSM5587858
+204875570040_R01C01	NA	Strain SNP	Mouse	0.956	1.5	55	Liver	Female	WT	Normal	GSM5587859
+204875570040_R01C02	NA	Strain SNP	Mouse	0.910	1.5	58	Liver	Female	WT	Normal	GSM5587860
+204875570040_R02C01	NA	Strain SNP	Mouse	0.940	1.5	55	Liver	Male	WT	Normal	GSM5587861
+204875570040_R03C01	NA	Strain SNP	Mouse	0.955	1.5	55	Liver	Female	WT	Normal	GSM5587862
+204875570040_R03C02	NA	Strain SNP	Mouse	0.938	1.5	59	Liver	Female	WT	Normal	GSM5587863
+204875570040_R04C01	NA	Strain SNP	Mouse	0.965	1.5	55	Liver	Male	WT	Normal	GSM5587864
+204875570040_R04C02	NA	Strain SNP	Mouse	0.702	1.5	59	Liver	Male	WT	Normal	GSM5587865
+204875570040_R05C01	NA	Strain SNP	Mouse	0.921	1.5	57	Liver	Female	WT	Normal	GSM5587866
+204875570040_R05C02	NA	Strain SNP	Mouse	0.857	1.5	57	Liver	Female	WT	Normal	GSM5587867
+204875570040_R06C01	NA	Strain SNP	Mouse	0.876	1.5	57	Liver	Male	WT	Normal	GSM5587868
+204875570040_R06C02	NA	Strain SNP	Mouse	0.927	1.5	57	Liver	Male	WT	Normal	GSM5587869
+204875570042_R01C01	NA	Strain SNP	Mouse	0.965	1.5	58	Liver	Female	WT	Normal	GSM5587870
+204875570042_R01C02	NA	Strain SNP	Mouse	0.849	1.5	55	Liver	Male	WT	Normal	GSM5587871
+204875570042_R02C02	NA	Strain SNP	Mouse	0.955	1.5	59	Liver	Female	WT	Normal	GSM5587872
+204875570042_R03C01	NA	Strain SNP	Mouse	0.911	1.5	55	Liver	Female	WT	Normal	GSM5587873
+204875570042_R03C02	NA	Strain SNP	Mouse	0.727	1.5	59	Liver	Male	WT	Normal	GSM5587874
+204875570042_R04C01	NA	Strain SNP	Mouse	0.955	1.5	49	Liver	Female	WT	Normal	GSM5587875
+204875570042_R04C02	NA	Strain SNP	Mouse	0.779	1.5	62	Liver	Male	WT	Normal	GSM5587876
+204875570042_R05C01	NA	Strain SNP	Mouse	0.939	1.5	55	Liver	Male	WT	Normal	GSM5587877
+204875570042_R05C02	NA	Strain SNP	Mouse	0.962	1.5	62	Liver	Male	WT	Normal	GSM5587878
+204875570042_R06C01	NA	Strain SNP	Mouse	0.913	1.5	55	Liver	Female	WT	Normal	GSM5587879
+204875570042_R06C02	NA	Strain SNP	Mouse	0.751	1.5	58	Liver	Female	WT	Normal	GSM5587880
+204875570043_R01C01	NA	Strain SNP	Mouse	0.858	1.5	58	Liver	Male	WT	Normal	GSM5587881
+204875570043_R02C01	NA	Strain SNP	Mouse	0.914	1.5	57	Liver	Female	WT	Normal	GSM5587882
+204875570043_R03C01	NA	Strain SNP	Mouse	0.804	1.5	57	Liver	Male	WT	Normal	GSM5587883
+204875570043_R04C01	NA	Strain SNP	Mouse	0.961	2	43	Liver	Male	WT	Normal	GSM5587884
+204875570043_R05C01	NA	Strain SNP	Mouse	0.922	1.5	55	Liver	Female	WT	Normal	GSM5587885
+204875570043_R06C01	NA	Strain SNP	Mouse	0.807	2	49	Liver	Male	WT	Normal	GSM5587886
+204875570049_R01C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.956	2	58	Liver	Female	WT	Normal	GSM5587887
+204875570049_R01C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.966	2	58	Liver	Male	WT	Normal	GSM5587888
+204875570049_R02C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.968	2	58	Liver	Male	WT	Normal	GSM5587889
+204875570049_R02C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.968	2	49	Liver	Male	WT	Normal	GSM5587890
+204875570049_R03C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.969	2	59	Liver	Male	WT	Normal	GSM5587891
+204875570049_R03C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.964	2	55	Liver	Female	WT	Normal	GSM5587892
+204875570049_R04C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.960	2	59	Liver	Female	WT	Normal	GSM5587893
+204875570049_R04C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.973	2	55	Liver	Male	WT	Normal	GSM5587894
+204875570049_R05C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.945	2	57	Liver	Female	WT	Normal	GSM5587895
+204875570049_R05C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.921	2	55	Liver	Male	WT	Normal	GSM5587896
+204875570049_R06C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.949	2	57	Liver	Male	WT	Normal	GSM5587897
+204875570049_R06C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.913	2	55	Liver	Female	WT	Normal	GSM5587898
+204875570074_R01C01	NA	Strain SNP	Mouse	0.905	2	62	Liver	Female	WT	Normal	GSM5587899
+204875570074_R02C01	NA	Strain SNP	Mouse	0.903	2	62	Liver	Male	WT	Normal	GSM5587900
+204879580004_R01C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.954	2	59	Liver	Female	WT	Normal	GSM5587901
+204879580004_R02C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.702	2	62	Liver	Male	WT	Normal	GSM5587902
+204879580024_R01C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.967	2	59	Liver	Male	WT	Normal	GSM5587903
+204879580024_R01C02	SNPs_Liver_rerun	Strain SNP	Mouse	0.959	2	43	Liver	Female	WT	Normal	GSM5587904
+204879580024_R02C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.958	2	62	Liver	Female	WT	Normal	GSM5587905
+204879580024_R03C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.967	2	58	Liver	Female	WT	Normal	GSM5587906
+204879580024_R04C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.974	2	58	Liver	Male	WT	Normal	GSM5587907
+204879580024_R05C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.949	2	57	Liver	Male	WT	Normal	GSM5587908
+204879580024_R06C01	SNPs_Liver_rerun	Strain SNP	Mouse	0.954	2	57	Liver	Female	WT	Normal	GSM5587909
+204617710004_R01C01	NA	Strain SNP	Mouse	0.965	18	542	Spleen	Female	WT	Normal	GSM5587188
+204875570064_R01C02	NA	Strain SNP	Mouse	0.951	2	59	Spleen	Female	WT	Normal	GSM5587910
+204875570064_R02C01	NA	Strain SNP	Mouse	0.952	2	57	Spleen	Male	WT	Normal	GSM5587911
+204875570064_R02C02	NA	Strain SNP	Mouse	0.952	2	59	Spleen	Male	WT	Normal	GSM5587912
+204875570064_R03C01	NA	Strain SNP	Mouse	0.974	2	57	Spleen	Female	WT	Normal	GSM5587913
+204875570064_R03C02	NA	Strain SNP	Mouse	0.938	2	59	Spleen	Female	WT	Normal	GSM5587914
+204875570064_R04C01	NA	Strain SNP	Mouse	0.958	2	55	Spleen	Male	WT	Normal	GSM5587915
+204875570064_R04C02	NA	Strain SNP	Mouse	0.930	2	57	Spleen	Male	WT	Normal	GSM5587916
+204875570064_R05C01	NA	Strain SNP	Mouse	0.958	2	49	Spleen	Female	WT	Normal	GSM5587917
+204875570064_R05C02	NA	Strain SNP	Mouse	0.946	2	57	Spleen	Female	WT	Normal	GSM5587918
+204875570064_R06C01	NA	Strain SNP	Mouse	0.973	2	59	Spleen	Male	WT	Normal	GSM5587919
+204875570064_R06C02	NA	Strain SNP	Mouse	0.945	2	58	Spleen	Male	WT	Normal	GSM5587920
+204875570066_R01C01	NA	Strain SNP	Mouse	0.960	2	58	Spleen	Female	WT	Normal	GSM5587921
+204875570066_R01C02	NA	Strain SNP	Mouse	0.943	2	62	Spleen	Female	WT	Normal	GSM5587922
+204875570066_R02C01	NA	Strain SNP	Mouse	0.957	2	59	Spleen	Male	WT	Normal	GSM5587923
+204875570066_R02C02	NA	Strain SNP	Mouse	0.963	2	55	Spleen	Male	WT	Normal	GSM5587924
+204875570066_R03C01	NA	Strain SNP	Mouse	0.936	2	59	Spleen	Female	WT	Normal	GSM5587925
+204875570066_R03C02	NA	Strain SNP	Mouse	0.966	2	55	Spleen	Female	WT	Normal	GSM5587926
+204875570066_R04C01	NA	Strain SNP	Mouse	0.960	2	59	Spleen	Male	WT	Normal	GSM5587927
+204875570066_R04C02	NA	Strain SNP	Mouse	0.973	2	55	Spleen	Male	WT	Normal	GSM5587928
+204875570066_R05C01	NA	Strain SNP	Mouse	0.956	2	59	Spleen	Female	WT	Normal	GSM5587929
+204875570066_R05C02	NA	Strain SNP	Mouse	0.968	2	55	Spleen	Female	WT	Normal	GSM5587930
+204875570066_R06C01	NA	Strain SNP	Mouse	0.969	2	62	Spleen	Male	WT	Normal	GSM5587931
+204875570066_R06C02	NA	Strain SNP	Mouse	0.966	2	58	Spleen	Male	WT	Normal	GSM5587932
+204875570072_R01C01	NA	Strain SNP	Mouse	0.963	2	58	Spleen	Female	WT	Normal	GSM5587933
+204875570072_R01C02	NA	Strain SNP	Mouse	0.921	2	55	Spleen	Female	WT	Normal	GSM5587934
+204875570072_R02C01	NA	Strain SNP	Mouse	0.962	2	57	Spleen	Male	WT	Normal	GSM5587935
+204875570072_R02C02	NA	Strain SNP	Mouse	0.921	2	62	Spleen	Male	WT	Normal	GSM5587936
+204875570072_R03C01	NA	Strain SNP	Mouse	0.971	2	57	Spleen	Female	WT	Normal	GSM5587937
+204875570072_R03C02	NA	Strain SNP	Mouse	0.912	2	62	Spleen	Female	WT	Normal	GSM5587938
+204875570072_R04C01	NA	Strain SNP	Mouse	0.924	2	57	Spleen	Male	WT	Normal	GSM5587939
+204875570072_R04C02	NA	Strain SNP	Mouse	0.945	2	49	Spleen	Male	WT	Normal	GSM5587940
+204875570072_R05C01	NA	Strain SNP	Mouse	0.916	2	57	Spleen	Female	WT	Normal	GSM5587941
+204875570072_R05C02	NA	Strain SNP	Mouse	0.961	2	55	Spleen	Female	WT	Normal	GSM5587942
+204875570072_R06C01	NA	Strain SNP	Mouse	0.889	2	55	Spleen	Male	WT	Normal	GSM5587943
+204875570072_R06C02	NA	Strain SNP	Mouse	0.966	2	62	Spleen	Male	WT	Normal	GSM5587944
+204875570077_R01C01	NA	Strain SNP	Mouse	0.963	2	43	Spleen	Female	WT	Normal	GSM5587945
+204875570077_R01C02	NA	Strain SNP	Mouse	0.956	2	62	Spleen	Female	WT	Normal	GSM5587946
+204875570077_R02C01	NA	Strain SNP	Mouse	0.957	2	58	Spleen	Male	WT	Normal	GSM5587947
+204875570077_R02C02	NA	Strain SNP	Mouse	0.953	2	58	Spleen	Male	WT	Normal	GSM5587948
+204875570077_R03C01	NA	Strain SNP	Mouse	0.964	2	58	Spleen	Female	WT	Normal	GSM5587949
+204875570077_R03C02	NA	Strain SNP	Mouse	0.947	2	58	Spleen	Female	WT	Normal	GSM5587950
+204875570077_R04C01	NA	Strain SNP	Mouse	0.947	2	57	Spleen	Male	WT	Normal	GSM5587951
+204875570077_R04C02	NA	Strain SNP	Mouse	0.949	2	59	Spleen	Male	WT	Normal	GSM5587952
+204875570077_R05C01	NA	Strain SNP	Mouse	0.948	2	57	Spleen	Female	WT	Normal	GSM5587953
+204875570077_R05C02	NA	Strain SNP	Mouse	0.954	2	59	Spleen	Female	WT	Normal	GSM5587954
+204875570077_R06C01	NA	Strain SNP	Mouse	0.957	2	62	Spleen	Male	WT	Normal	GSM5587955
+204875570077_R06C02	NA	Strain SNP	Mouse	0.957	2	55	Spleen	Male	WT	Normal	GSM5587956
+204875570083_R01C01	NA	Strain SNP	Mouse	0.952	2	55	Spleen	Female	WT	Normal	GSM5587957
+204875570031_R01C01	NA	Strain SNP	Mouse	0.970	2	58	Tail	Male	WT	Normal	GSM5587958
+204875570031_R01C02	NA	Strain SNP	Mouse	0.973	2	62	Tail	Male	WT	Normal	GSM5587959
+204875570031_R02C01	NA	Strain SNP	Mouse	0.961	2	58	Tail	Female	WT	Normal	GSM5587960
+204875570031_R02C02	NA	Strain SNP	Mouse	0.965	2	62	Tail	Female	WT	Normal	GSM5587961
+204875570031_R03C01	NA	Strain SNP	Mouse	0.968	2	59	Tail	Male	WT	Normal	GSM5587962
+204875570031_R03C02	NA	Strain SNP	Mouse	0.973	2	55	Tail	Male	WT	Normal	GSM5587963
+204875570031_R04C01	NA	Strain SNP	Mouse	0.963	2	59	Tail	Female	WT	Normal	GSM5587964
+204875570031_R04C02	NA	Strain SNP	Mouse	0.963	2	55	Tail	Female	WT	Normal	GSM5587965
+204875570031_R05C01	NA	Strain SNP	Mouse	0.966	2	59	Tail	Male	WT	Normal	GSM5587966
+204875570031_R05C02	NA	Strain SNP	Mouse	0.970	2	55	Tail	Male	WT	Normal	GSM5587967
+204875570031_R06C01	NA	Strain SNP	Mouse	0.955	2	59	Tail	Female	WT	Normal	GSM5587968
+204875570031_R06C02	NA	Strain SNP	Mouse	0.971	2	55	Tail	Female	WT	Normal	GSM5587969
+204875570056_R01C01	NA	Strain SNP	Mouse	0.979	2	58	Tail	Male	WT	Normal	GSM5587970
+204875570056_R01C02	NA	Strain SNP	Mouse	0.920	2	55	Tail	Male	WT	Normal	GSM5587971
+204875570056_R02C01	NA	Strain SNP	Mouse	0.964	2	58	Tail	Female	WT	Normal	GSM5587972
+204875570056_R02C02	NA	Strain SNP	Mouse	0.901	2	55	Tail	Female	WT	Normal	GSM5587973
+204875570056_R03C02	NA	Strain SNP	Mouse	0.911	2	62	Tail	Male	WT	Normal	GSM5587974
+204875570056_R04C01	NA	Strain SNP	Mouse	0.971	2	57	Tail	Female	WT	Normal	GSM5587975
+204875570056_R04C02	NA	Strain SNP	Mouse	0.907	2	62	Tail	Female	WT	Normal	GSM5587976
+204875570056_R05C01	NA	Strain SNP	Mouse	0.920	2	57	Tail	Male	WT	Normal	GSM5587977
+204875570056_R05C02	NA	Strain SNP	Mouse	0.968	2	49	Tail	Male	WT	Normal	GSM5587978
+204875570056_R06C01	NA	Strain SNP	Mouse	0.911	2	57	Tail	Female	WT	Normal	GSM5587979
+204875570056_R06C02	NA	Strain SNP	Mouse	0.956	2	55	Tail	Female	WT	Normal	GSM5587980
+204875570061_R01C01	NA	Strain SNP	Mouse	0.968	2	62	Tail	Male	WT	Normal	GSM5587981
+204875570061_R01C02	NA	Strain SNP	Mouse	0.955	2	62	Tail	Female	WT	Normal	GSM5587982
+204875570061_R02C01	NA	Strain SNP	Mouse	0.952	2	43	Tail	Female	WT	Normal	GSM5587983
+204875570061_R02C02	NA	Strain SNP	Mouse	0.959	2	58	Tail	Male	WT	Normal	GSM5587984
+204875570061_R03C01	NA	Strain SNP	Mouse	0.951	2	58	Tail	Female	WT	Normal	GSM5587985
+204875570061_R03C02	NA	Strain SNP	Mouse	0.966	2	58	Tail	Female	WT	Normal	GSM5587986
+204875570061_R04C01	NA	Strain SNP	Mouse	0.956	2	57	Tail	Male	WT	Normal	GSM5587987
+204875570061_R04C02	NA	Strain SNP	Mouse	0.953	2	59	Tail	Male	WT	Normal	GSM5587988
+204875570061_R05C01	NA	Strain SNP	Mouse	0.953	2	57	Tail	Female	WT	Normal	GSM5587989
+204875570061_R05C02	NA	Strain SNP	Mouse	0.949	2	59	Tail	Female	WT	Normal	GSM5587990
+204875570061_R06C01	NA	Strain SNP	Mouse	0.957	2	62	Tail	Male	WT	Normal	GSM5587991
+204875570061_R06C02	NA	Strain SNP	Mouse	0.951	2	55	Tail	Male	WT	Normal	GSM5587992
+204875570064_R01C01	NA	Strain SNP	Mouse	0.952	2	55	Tail	Female	WT	Normal	GSM5587993
+204875570074_R01C02	NA	Strain SNP	Mouse	0.972	2	59	Tail	Male	WT	Normal	GSM5587994
+204875570074_R02C02	NA	Strain SNP	Mouse	0.970	2	59	Tail	Female	WT	Normal	GSM5587995
+204875570074_R03C01	NA	Strain SNP	Mouse	0.973	2	57	Tail	Male	WT	Normal	GSM5587996
+204875570074_R03C02	NA	Strain SNP	Mouse	0.975	2	59	Tail	Male	WT	Normal	GSM5587997
+204875570074_R04C01	NA	Strain SNP	Mouse	0.967	2	57	Tail	Female	WT	Normal	GSM5587998
+204875570074_R04C02	NA	Strain SNP	Mouse	0.966	2	59	Tail	Female	WT	Normal	GSM5587999
+204875570074_R05C01	NA	Strain SNP	Mouse	0.975	2	55	Tail	Male	WT	Normal	GSM5588000
+204875570074_R05C02	NA	Strain SNP	Mouse	0.970	2	57	Tail	Male	WT	Normal	GSM5588001
+204875570074_R06C01	NA	Strain SNP	Mouse	0.966	2	49	Tail	Female	WT	Normal	GSM5588002
+204875570074_R06C02	NA	Strain SNP	Mouse	0.958	2	57	Tail	Female	WT	Normal	GSM5588003
+204875570008_R06C01	NA	Tissue Biology	Mouse	0.963	1	29	Cecum	Female	WT	Normal	GSM5588004
+204875570011_R02C02	NA	Tissue Biology	Mouse	0.975	1	31	Cecum	Male	WT	Normal	GSM5588005
+204875570015_R01C02	NA	Tissue Biology	Mouse	0.968	17.5	531	Cecum	Female	WT	Normal	GSM5588006
+204875570022_R04C01	NA	Tissue Biology	Mouse	0.973	8	218	Cecum	Female	WT	Normal	GSM5588007
+204875570023_R05C01	NA	Tissue Biology	Mouse	0.978	16	497	Cecum	Male	WT	Normal	GSM5588008
+204875570038_R04C01	NA	Tissue Biology	Mouse	0.973	18	542	Cecum	Female	WT	Normal	GSM5588009
+204875570071_R05C01	NA	Tissue Biology	Mouse	0.977	1	31	Cecum	Male	WT	Normal	GSM5588010
+204875570008_R02C02	C1	Tissue Biology	Mouse	0.969	1	29	Colon	Female	WT	Normal	GSM5588011
+204875570008_R03C02	C2	Tissue Biology	Mouse	0.969	1	29	Colon	Female	WT	Normal	GSM5588012
+204875570008_R04C02	C3	Tissue Biology	Mouse	0.967	1	29	Colon	Female	WT	Normal	GSM5588013
+204875570011_R05C02	C1	Tissue Biology	Mouse	0.956	1	31	Colon	Male	WT	Normal	GSM5588014
+204875570011_R06C02	C2	Tissue Biology	Mouse	0.975	1	31	Colon	Male	WT	Normal	GSM5588015
+204875570014_R01C01	C3	Tissue Biology	Mouse	0.974	1	31	Colon	Male	WT	Normal	GSM5588016
+204875570015_R03C01	C1	Tissue Biology	Mouse	0.967	17.5	531	Colon	Female	WT	Normal	GSM5588017
+204875570015_R04C01	C2	Tissue Biology	Mouse	0.968	17.5	531	Colon	Female	WT	Normal	GSM5588018
+204875570015_R05C01	C3	Tissue Biology	Mouse	0.963	17.5	531	Colon	Female	WT	Normal	GSM5588019
+204875570015_R06C02	C1	Tissue Biology	Mouse	0.970	16	497	Colon	Male	WT	Normal	GSM5588020
+204875570022_R01C01	C2	Tissue Biology	Mouse	0.967	8	218	Colon	Female	WT	Normal	GSM5588021
+204875570022_R02C01	C3	Tissue Biology	Mouse	0.972	8	218	Colon	Female	WT	Normal	GSM5588022
+204875570023_R01C01	C2	Tissue Biology	Mouse	0.974	16	497	Colon	Male	WT	Normal	GSM5588023
+204875570023_R02C01	C3	Tissue Biology	Mouse	0.975	16	497	Colon	Male	WT	Normal	GSM5588024
+204875570027_R03C01	C1	Tissue Biology	Mouse	0.968	1	29	Colon	Female	WT	Normal	GSM5588025
+204875570027_R04C01	C2	Tissue Biology	Mouse	0.970	1	29	Colon	Female	WT	Normal	GSM5588026
+204875570027_R05C01	C3	Tissue Biology	Mouse	0.967	1	29	Colon	Female	WT	Normal	GSM5588027
+204875570038_R02C02	C1	Tissue Biology	Mouse	0.969	18	542	Colon	Female	WT	Normal	GSM5588028
+204875570038_R03C02	C2	Tissue Biology	Mouse	0.970	18	542	Colon	Female	WT	Normal	GSM5588029
+204875570038_R04C02	C3	Tissue Biology	Mouse	0.964	18	542	Colon	Female	WT	Normal	GSM5588030
+204875570051_R05C01	C2	Tissue Biology	Mouse	0.977	31	952	Colon	Male	WT	Normal	GSM5588031
+204875570051_R06C01	C4	Tissue Biology	Mouse	0.976	31	952	Colon	Male	WT	Normal	GSM5588032
+204875570051_R06C02	C1	Tissue Biology	Mouse	0.963	8	218	Colon	Female	WT	Normal	GSM5588033
+204875570071_R01C02	C2	Tissue Biology	Mouse	0.974	1	31	Colon	Male	WT	Normal	GSM5588034
+204875570071_R02C02	C3	Tissue Biology	Mouse	0.976	1	31	Colon	Male	WT	Normal	GSM5588035
+204875570071_R06C01	C1	Tissue Biology	Mouse	0.975	1	31	Colon	Male	WT	Normal	GSM5588036
+204875570008_R05C01	E1	Tissue Biology	Mouse	0.967	1	29	Esophagus	Female	WT	Normal	GSM5588037
+204875570011_R03C01	E1	Tissue Biology	Mouse	0.956	16	497	Esophagus	Male	WT	Normal	GSM5588038
+204875570014_R06C02	E1	Tissue Biology	Mouse	0.970	1	31	Esophagus	Male	WT	Normal	GSM5588039
+204875570015_R02C01	E1	Tissue Biology	Mouse	0.962	17.5	531	Esophagus	Female	WT	Normal	GSM5588040
+204875570022_R06C02	E1	Tissue Biology	Mouse	0.968	8	218	Esophagus	Female	WT	Normal	GSM5588041
+204875570027_R06C01	E1	Tissue Biology	Mouse	0.967	1	29	Esophagus	Female	WT	Normal	GSM5588042
+204875570038_R06C01	E1	Tissue Biology	Mouse	0.960	18	542	Esophagus	Female	WT	Normal	GSM5588043
+204875570051_R04C01	E1	Tissue Biology	Mouse	0.978	31	952	Esophagus	Male	WT	Normal	GSM5588044
+204875570071_R02C01	NA	Tissue Biology	Mouse	0.978	1	31	Esophagus	Male	WT	Normal	GSM5588045
+204875570011_R01C01	NA	Tissue Biology	Mouse	0.974	16	497	Fat	Male	WT	Normal	GSM5588046
+204875570022_R03C02	NA	Tissue Biology	Mouse	0.972	8	218	Fat	Female	WT	Normal	GSM5588047
+204875570022_R04C02	NA	Tissue Biology	Mouse	0.973	8	218	Fat	Female	WT	Normal	GSM5588048
+204875570038_R05C01	NA	Tissue Biology	Mouse	0.966	18	542	Fat	Female	WT	Normal	GSM5588049
+204879580005_R04C02	Mouse1_Embryo2_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.927	0	-8	Fetal Brain	Male	WT	Normal	GSM5588050
+204879580008_R02C01	Mouse2_Embryo1_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.978	0	-8	Fetal Brain	Male	WT	Normal	GSM5588051
+204879580008_R05C02	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.960	0	-4	Fetal Brain	Female	LO/LO	Normal	GSM5588052
+204879580009_R05C01	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.969	0	-4	Fetal Brain	Male	LO/LO	Normal	GSM5588053
+204879580009_R05C02	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.972	0	-4	Fetal Brain	Male	LO/LO	Normal	GSM5588054
+204879580020_R05C01	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.963	0	-4	Fetal Brain	Female	LO/LO	Normal	GSM5588055
+204879580021_R01C01	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.976	0	-3	Fetal Brain	Male	WT	Normal	GSM5588056
+204879580021_R01C02	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.978	0	-3	Fetal Brain	Male	WT	Normal	GSM5588057
+204879580022_R02C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.979	0	-3	Fetal Brain	Male	WT	Normal	GSM5588058
+204879580022_R05C02	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.973	0	-3	Fetal Brain	Female	WT	Normal	GSM5588059
+204879580043_R01C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.972	0	-3	Fetal Brain	Female	WT	Normal	GSM5588060
+204879580008_R04C02	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.919	0	-4	Fetal Intestine	Female	LO/LO	Normal	GSM5588061
+204879580009_R04C01	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.928	0	-4	Fetal Intestine	Male	LO/LO	Normal	GSM5588062
+204879580009_R04C02	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.966	0	-4	Fetal Intestine	Male	LO/LO	Normal	GSM5588063
+204879580020_R04C01	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.924	0	-4	Fetal Intestine	Female	LO/LO	Normal	GSM5588064
+204879580021_R03C01	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.964	0	-3	Fetal Intestine	Male	WT	Normal	GSM5588065
+204879580021_R03C02	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.972	0	-3	Fetal Intestine	Male	WT	Normal	GSM5588066
+204879580022_R04C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.971	0	-3	Fetal Intestine	Male	WT	Normal	GSM5588067
+204879580043_R01C01	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.956	0	-3	Fetal Intestine	Female	WT	Normal	GSM5588068
+204879580043_R03C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.948	0	-3	Fetal Intestine	Female	WT	Normal	GSM5588069
+204879580008_R02C02	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.942	0	-4	Fetal Limb	Female	LO/LO	Normal	GSM5588070
+204879580009_R02C01	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.951	0	-4	Fetal Limb	Male	LO/LO	Normal	GSM5588071
+204879580009_R02C02	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.930	0	-4	Fetal Limb	Male	LO/LO	Normal	GSM5588072
+204879580020_R02C01	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.956	0	-4	Fetal Limb	Female	LO/LO	Normal	GSM5588073
+204879580020_R02C02	Mouse3_Embryo5_E17.5	Tissue Biology	Mouse	0.966	0	-4	Fetal Limb	Female	LO/LO	Normal	GSM5588074
+204879580021_R02C01	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.964	0	-3	Fetal Limb	Male	WT	Normal	GSM5588075
+204879580021_R02C02	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.975	0	-3	Fetal Limb	Male	WT	Normal	GSM5588076
+204879580022_R03C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.970	0	-3	Fetal Limb	Male	WT	Normal	GSM5588077
+204879580022_R06C02	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.932	0	-3	Fetal Limb	Female	WT	Normal	GSM5588078
+204879580043_R02C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.946	0	-3	Fetal Limb	Female	WT	Normal	GSM5588079
+204617710021_R04C01	NA	Tissue Biology	Mouse	0.966	1	29	Frontal Lobe Brain	Female	WT	Normal	GSM5587172
+204617710021_R05C01	NA	Tissue Biology	Mouse	0.968	1	183	Frontal Lobe Brain	Female	WT	Normal	GSM5587174
+204617710021_R06C01	NA	Tissue Biology	Mouse	0.979	31	952	Frontal Lobe Brain	Male	WT	Normal	GSM5587176
+204875570014_R06C01	NA	Tissue Biology	Mouse	0.971	1	31	Frontal Lobe Brain	Male	WT	Normal	GSM5588080
+204875570023_R01C02	NA	Tissue Biology	Mouse	0.966	16	497	Frontal Lobe Brain	Male	WT	Normal	GSM5588081
+204875570027_R03C02	NA	Tissue Biology	Mouse	0.963	1	29	Frontal Lobe Brain	Female	WT	Normal	GSM5588082
+204875570028_R02C01	NA	Tissue Biology	Mouse	0.965	17.5	531	Frontal Lobe Brain	Female	WT	Normal	GSM5588083
+204875570045_R01C02	NA	Tissue Biology	Mouse	0.958	1	29	Frontal Lobe Brain	Female	WT	Normal	GSM5588084
+204875570048_R06C01	NA	Tissue Biology	Mouse	0.966	1	31	Frontal Lobe Brain	Male	WT	Normal	GSM5588085
+204879580022_R06C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.967	0	-3	Heart	Male	WT	Normal	GSM5588086
+204879580043_R06C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.921	0	-3	Heart	Female	WT	Normal	GSM5588087
+204617710021_R01C02	NA	Tissue Biology	Mouse	0.967	1	29	Heart	Female	WT	Normal	GSM5587167
+204617710021_R02C02	NA	Tissue Biology	Mouse	0.966	1	183	Heart	Female	WT	Normal	GSM5587169
+204617710021_R03C02	NA	Tissue Biology	Mouse	0.977	31	952	Heart	Male	WT	Normal	GSM5587171
+204875570011_R04C01	NA	Tissue Biology	Mouse	0.974	16	497	Heart	Male	WT	Normal	GSM5588088
+204875570014_R04C02	NA	Tissue Biology	Mouse	0.978	1	31	Heart	Male	WT	Normal	GSM5588089
+204875570028_R03C01	NA	Tissue Biology	Mouse	0.949	17.5	531	Heart	Female	WT	Normal	GSM5588090
+204875570045_R02C02	NA	Tissue Biology	Mouse	0.966	18	542	Heart	Female	WT	Normal	GSM5588091
+204875570045_R06C01	NA	Tissue Biology	Mouse	0.966	1	29	Heart	Female	WT	Normal	GSM5588092
+204875570048_R04C01	NA	Tissue Biology	Mouse	0.961	1	31	Heart	Male	WT	Normal	GSM5588093
+204875570008_R06C02	NA	Tissue Biology	Mouse	0.965	1	29	Hind Brain	Female	WT	Normal	GSM5588094
+204875570014_R01C02	NA	Tissue Biology	Mouse	0.976	1	31	Hind Brain	Male	WT	Normal	GSM5588095
+204875570015_R02C02	NA	Tissue Biology	Mouse	0.967	17.5	531	Hind Brain	Female	WT	Normal	GSM5588096
+204875570022_R06C01	NA	Tissue Biology	Mouse	0.963	8	218	Hind Brain	Female	WT	Normal	GSM5588097
+204875570023_R02C02	NA	Tissue Biology	Mouse	0.977	16	497	Hind Brain	Male	WT	Normal	GSM5588098
+204875570027_R04C02	NA	Tissue Biology	Mouse	0.967	1	29	Hind Brain	Female	WT	Normal	GSM5588099
+204875570048_R01C02	NA	Tissue Biology	Mouse	0.968	1	31	Hind Brain	Male	WT	Normal	GSM5588100
+204875570051_R03C02	NA	Tissue Biology	Mouse	0.979	31	952	Hind Brain	Male	WT	Normal	GSM5588101
+204879580022_R01C02	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.960	0	-3	Kidney	Male	WT	Normal	GSM5588102
+204879580043_R02C01	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.967	0	-3	Kidney	Female	WT	Normal	GSM5588103
+204879580043_R05C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.945	0	-3	Kidney	Female	WT	Normal	GSM5588104
+204617710019_R05C01	NA	Tissue Biology	Mouse	0.971	8	218	Kidney	Female	WT	Normal	GSM5587162
+204617710019_R06C01	NA	Tissue Biology	Mouse	0.981	31	952	Kidney	Male	WT	Normal	GSM5587164
+204875570014_R03C01	NA	Tissue Biology	Mouse	0.974	1	31	Kidney	Male	WT	Normal	GSM5588105
+204875570022_R01C02	NA	Tissue Biology	Mouse	0.969	8	218	Kidney	Female	WT	Normal	GSM5588106
+204875570023_R03C02	NA	Tissue Biology	Mouse	0.976	16	497	Kidney	Male	WT	Normal	GSM5588107
+204875570028_R02C02	NA	Tissue Biology	Mouse	0.964	17.5	531	Kidney	Female	WT	Normal	GSM5588108
+204875570045_R04C01	NA	Tissue Biology	Mouse	0.969	1	29	Kidney	Female	WT	Normal	GSM5588109
+204875570045_R06C02	NA	Tissue Biology	Mouse	0.969	18	542	Kidney	Female	WT	Normal	GSM5588110
+204875570048_R03C02	NA	Tissue Biology	Mouse	0.968	1	31	Kidney	Male	WT	Normal	GSM5588111
+204879580005_R05C02	Mouse1_Embryo2_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.955	0	-8	Fetal Liver	Male	WT	Normal	GSM5588112
+204879580008_R03C01	Mouse2_Embryo1_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.959	0	-8	Fetal Liver	Male	WT	Normal	GSM5588113
+204879580008_R03C02	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.957	0	-4	Fetal Liver	Female	LO/LO	Normal	GSM5588114
+204879580009_R03C01	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.942	0	-4	Fetal Liver	Male	LO/LO	Normal	GSM5588115
+204879580009_R03C02	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.927	0	-4	Fetal Liver	Male	LO/LO	Normal	GSM5588116
+204879580020_R03C01	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.943	0	-4	Fetal Liver	Female	LO/LO	Normal	GSM5588117
+204879580020_R05C02	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.967	0	-3	Fetal Liver	Male	WT	Normal	GSM5588118
+204879580021_R05C01	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.959	0	-3	Fetal Liver	Male	WT	Normal	GSM5588119
+204879580021_R06C02	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.969	0	-3	Fetal Liver	Male	WT	Normal	GSM5588120
+204879580022_R03C02	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.966	0	-3	Fetal Liver	Female	WT	Normal	GSM5588121
+204879580043_R05C01	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.966	0	-3	Fetal Liver	Female	WT	Normal	GSM5588122
+204617710016_R01C02	NA	Tissue Biology	Mouse	0.949	8	218	Liver	Female	WT	Normal	GSM5587179
+204617710016_R02C02	NA	Tissue Biology	Mouse	0.973	31	952	Liver	Male	WT	Normal	GSM5587181
+204617710016_R06C01	NA	Tissue Biology	Mouse	0.954	1	29	Liver	Female	WT	Normal	GSM5587186
+204875570014_R05C02	NA	Tissue Biology	Mouse	0.937	1	31	Liver	Male	WT	Normal	GSM5588123
+204875570023_R06C01	NA	Tissue Biology	Mouse	0.962	16	497	Liver	Male	WT	Normal	GSM5588124
+204875570028_R06C01	NA	Tissue Biology	Mouse	0.822	17.5	531	Liver	Female	WT	Normal	GSM5588125
+204875570045_R02C01	NA	Tissue Biology	Mouse	0.959	1	29	Liver	Female	WT	Normal	GSM5588126
+204875570045_R04C02	NA	Tissue Biology	Mouse	0.958	18	542	Liver	Female	WT	Normal	GSM5588127
+204875570048_R06C02	NA	Tissue Biology	Mouse	0.964	1	31	Liver	Male	WT	Normal	GSM5588128
+204879580021_R04C02	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.944	0	-3	Lung	Male	WT	Normal	GSM5588129
+204879580022_R05C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.961	0	-3	Lung	Male	WT	Normal	GSM5588130
+204879580043_R03C01	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.963	0	-3	Lung	Female	WT	Normal	GSM5588131
+204879580043_R04C02	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.965	0	-3	Lung	Female	WT	Normal	GSM5588132
+204617710019_R04C01	NA	Tissue Biology	Mouse	0.967	1	29	Lung	Female	WT	Normal	GSM5587160
+204875570008_R01C01	NA	Tissue Biology	Mouse	0.967	1	29	Lung	Female	WT	Normal	GSM5588133
+204875570014_R03C02	NA	Tissue Biology	Mouse	0.975	1	31	Lung	Male	WT	Normal	GSM5588134
+204875570022_R02C02	NA	Tissue Biology	Mouse	0.975	8	218	Lung	Female	WT	Normal	GSM5588135
+204875570023_R05C02	NA	Tissue Biology	Mouse	0.967	16	497	Lung	Male	WT	Normal	GSM5588136
+204875570028_R01C02	NA	Tissue Biology	Mouse	0.967	17.5	531	Lung	Female	WT	Normal	GSM5588137
+204875570038_R05C02	NA	Tissue Biology	Mouse	0.984	31	952	Lung	Male	WT	Normal	GSM5588138
+204875570045_R03C01	NA	Tissue Biology	Mouse	0.968	1	29	Lung	Female	WT	Normal	GSM5588139
+204875570045_R05C02	NA	Tissue Biology	Mouse	0.967	18	542	Lung	Female	WT	Normal	GSM5588140
+204875570048_R04C02	NA	Tissue Biology	Mouse	0.970	1	31	Lung	Male	WT	Normal	GSM5588141
+204875570008_R02C01	NA	Tissue Biology	Mouse	0.936	1	29	Muscle	Female	WT	Normal	GSM5588142
+204875570014_R02C02	NA	Tissue Biology	Mouse	0.969	1	31	Muscle	Male	WT	Normal	GSM5588143
+204875570023_R06C02	NA	Tissue Biology	Mouse	0.960	16	497	Muscle	Male	WT	Normal	GSM5588144
+204875570027_R06C02	NA	Tissue Biology	Mouse	0.962	1	29	Muscle	Female	WT	Normal	GSM5588145
+204875570028_R03C02	NA	Tissue Biology	Mouse	0.933	17.5	531	Muscle	Female	WT	Normal	GSM5588146
+204875570038_R01C01	NA	Tissue Biology	Mouse	0.936	18	542	Muscle	Female	WT	Normal	GSM5588147
+204875570038_R06C02	NA	Tissue Biology	Mouse	0.949	31	952	Muscle	Male	WT	Normal	GSM5588148
+204875570048_R05C01	NA	Tissue Biology	Mouse	0.932	1	31	Muscle	Male	WT	Normal	GSM5588149
+204875570015_R06C01	NA	Tissue Biology	Mouse	0.959	17.5	531	Ovary	Female	WT	Normal	GSM5588150
+204875570022_R05C02	NA	Tissue Biology	Mouse	0.967	8	218	Ovary	Female	WT	Normal	GSM5588151
+204875570027_R01C01	NA	Tissue Biology	Mouse	0.969	1	29	Ovary	Female	WT	Normal	GSM5588152
+204875570027_R05C02	NA	Tissue Biology	Mouse	0.963	18	542	Ovary	Female	WT	Normal	GSM5588153
+204879580005_R02C02	Mouse1_Embryo1_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.939	0	-8	Placenta	Female	WT	Normal	GSM5588154
+204879580005_R03C02	Mouse1_Embryo2_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.931	0	-8	Placenta	Male	WT	Normal	GSM5588155
+204879580008_R01C01	Mouse2_Embryo1_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.953	0	-8	Placenta	Female	WT	Normal	GSM5588156
+204879580008_R05C01	Mouse2_Embryo2_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.941	0	-8	Placenta	Female	WT	Normal	GSM5588157
+204879580008_R06C01	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.951	0	-4	Placenta	Female	LO/LO	Normal	GSM5588158
+204879580008_R06C02	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.907	0	-4	Placenta	Male	LO/LO	Normal	GSM5588159
+204879580009_R06C01	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.949	0	-4	Placenta	Male	LO/LO	Normal	GSM5588160
+204879580009_R06C02	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.952	0	-4	Placenta	Female	LO/LO	Normal	GSM5588161
+204879580010_R01C01	Mouse4_Embryo6_E18.5	Tissue Biology	Mouse	0.959	0	-3	Placenta	Female	WT	Normal	GSM5588162
+204879580020_R03C02	Mouse3_Embryo6_E17.5	Tissue Biology	Mouse	0.952	0	-4	Placenta	Female	LO/LO	Normal	GSM5588163
+204879580020_R04C02	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.965	0	-3	Placenta	Male	WT	Normal	GSM5588164
+204879580020_R06C01	Mouse3_Embryo5_E17.5	Tissue Biology	Mouse	0.946	0	-4	Placenta	Female	LO/LO	Normal	GSM5588165
+204879580021_R04C01	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.975	0	-3	Placenta	Female	WT	Normal	GSM5588166
+204879580021_R05C02	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.960	0	-3	Placenta	Male	WT	Normal	GSM5588167
+204879580022_R02C02	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.970	0	-3	Placenta	Female	WT	Normal	GSM5588168
+204879580043_R04C01	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.970	0	-3	Placenta	Female	WT	Normal	GSM5588169
+204617710004_R02C02	NA	Tissue Biology	Mouse	0.968	1	29	Small Intestine	Female	WT	Normal	GSM5587191
+204617710004_R03C02	NA	Tissue Biology	Mouse	0.966	1	29	Small Intestine	Female	WT	Normal	GSM5587193
+204617710004_R04C02	NA	Tissue Biology	Mouse	0.968	18	542	Small Intestine	Female	WT	Normal	GSM5587195
+204617710004_R05C02	NA	Tissue Biology	Mouse	0.962	18	542	Small Intestine	Female	WT	Normal	GSM5587197
+204617710021_R04C02	NA	Tissue Biology	Mouse	0.968	1	29	Small Intestine	Female	WT	Normal	GSM5587173
+204617710021_R05C02	NA	Tissue Biology	Mouse	0.974	8	218	Small Intestine	Female	WT	Normal	GSM5587175
+204617710021_R06C02	NA	Tissue Biology	Mouse	0.980	31	952	Small Intestine	Male	WT	Normal	GSM5587177
+204875570008_R03C01	SI3	Tissue Biology	Mouse	0.966	1	29	Small Intestine	Female	WT	Normal	GSM5588170
+204875570008_R04C01	SI10	Tissue Biology	Mouse	0.969	1	29	Small Intestine	Female	WT	Normal	GSM5588171
+204875570011_R01C02	SI10	Tissue Biology	Mouse	0.976	1	31	Small Intestine	Male	WT	Normal	GSM5588172
+204875570011_R05C01	SI1	Tissue Biology	Mouse	0.972	1	31	Small Intestine	Male	WT	Normal	GSM5588173
+204875570011_R06C01	SI3	Tissue Biology	Mouse	0.974	1	31	Small Intestine	Male	WT	Normal	GSM5588174
+204875570015_R03C02	SI1	Tissue Biology	Mouse	0.971	16	497	Small Intestine	Male	WT	Normal	GSM5588175
+204875570015_R04C02	SI3	Tissue Biology	Mouse	0.972	16	497	Small Intestine	Male	WT	Normal	GSM5588176
+204875570015_R05C02	SI10	Tissue Biology	Mouse	0.975	16	497	Small Intestine	Male	WT	Normal	GSM5588177
+204875570027_R02C01	SI3	Tissue Biology	Mouse	0.967	1	29	Small Intestine	Female	WT	Normal	GSM5588178
+204875570028_R04C01	SI1	Tissue Biology	Mouse	0.968	17.5	531	Small Intestine	Female	WT	Normal	GSM5588179
+204875570028_R04C02	SI3	Tissue Biology	Mouse	0.970	17.5	531	Small Intestine	Female	WT	Normal	GSM5588180
+204875570028_R05C02	SI10	Tissue Biology	Mouse	0.966	17.5	531	Small Intestine	Female	WT	Normal	GSM5588181
+204875570038_R02C01	SI3	Tissue Biology	Mouse	0.965	18	542	Small Intestine	Female	WT	Normal	GSM5588182
+204875570048_R01C01	SI1	Tissue Biology	Mouse	0.974	1	31	Small Intestine	Male	WT	Normal	GSM5588183
+204875570048_R02C01	SI3	Tissue Biology	Mouse	0.973	1	31	Small Intestine	Male	WT	Normal	GSM5588184
+204875570048_R03C01	SI10	Tissue Biology	Mouse	0.978	1	31	Small Intestine	Male	WT	Normal	GSM5588185
+204875570051_R01C01	SI3	Tissue Biology	Mouse	0.975	31	952	Small Intestine	Male	WT	Normal	GSM5588186
+204875570051_R02C01	SI10	Tissue Biology	Mouse	0.974	31	952	Small Intestine	Male	WT	Normal	GSM5588187
+204875570051_R04C02	SI3	Tissue Biology	Mouse	0.972	8	218	Small Intestine	Female	WT	Normal	GSM5588188
+204875570051_R05C02	SI10	Tissue Biology	Mouse	0.974	8	218	Small Intestine	Female	WT	Normal	GSM5588189
+204617710010_R04C02	NA	Tissue Biology	Mouse	0.966	1	29	Spleen	Female	WT	Normal	GSM5587137
+204617710010_R05C02	NA	Tissue Biology	Mouse	0.967	8	218	Spleen	Female	WT	Normal	GSM5587139
+204617710010_R06C02	NA	Tissue Biology	Mouse	0.964	31	952	Spleen	Male	WT	Normal	GSM5587141
+204875570014_R04C01	NA	Tissue Biology	Mouse	0.979	1	31	Spleen	Male	WT	Normal	GSM5588190
+204875570023_R04C02	NA	Tissue Biology	Mouse	0.978	16	497	Spleen	Male	WT	Normal	GSM5588191
+204875570028_R05C01	NA	Tissue Biology	Mouse	0.953	17.5	531	Spleen	Female	WT	Normal	GSM5588192
+204875570045_R05C01	NA	Tissue Biology	Mouse	0.968	1	29	Spleen	Female	WT	Normal	GSM5588193
+204875570048_R05C02	NA	Tissue Biology	Mouse	0.976	1	31	Spleen	Male	WT	Normal	GSM5588194
+204617710010_R01C02	NA	Tissue Biology	Mouse	0.969	8	218	Stomach	Female	WT	Normal	GSM5587131
+204617710010_R02C02	NA	Tissue Biology	Mouse	0.976	31	952	Stomach	Male	WT	Normal	GSM5587133
+204617710010_R06C01	NA	Tissue Biology	Mouse	0.920	1	29	Stomach	Female	WT	Normal	GSM5587140
+204875570008_R01C02	S2	Tissue Biology	Mouse	0.964	1	29	Stomach	Female	WT	Normal	GSM5588195
+204875570011_R03C02	S1	Tissue Biology	Mouse	0.975	1	31	Stomach	Male	WT	Normal	GSM5588196
+204875570011_R04C02	S2	Tissue Biology	Mouse	0.974	1	31	Stomach	Male	WT	Normal	GSM5588197
+204875570015_R01C01	S2	Tissue Biology	Mouse	0.964	17.5	531	Stomach	Female	WT	Normal	GSM5588198
+204875570022_R03C01	S2	Tissue Biology	Mouse	0.971	8	218	Stomach	Female	WT	Normal	GSM5588199
+204875570023_R03C01	S1	Tissue Biology	Mouse	0.964	16	497	Stomach	Male	WT	Normal	GSM5588200
+204875570023_R04C01	S2	Tissue Biology	Mouse	0.975	16	497	Stomach	Male	WT	Normal	GSM5588201
+204875570027_R01C02	S1	Tissue Biology	Mouse	0.965	1	29	Stomach	Female	WT	Normal	GSM5588202
+204875570027_R02C02	S2	Tissue Biology	Mouse	0.970	1	29	Stomach	Female	WT	Normal	GSM5588203
+204875570028_R06C02	S1	Tissue Biology	Mouse	0.963	17.5	531	Stomach	Female	WT	Normal	GSM5588204
+204875570038_R01C02	S2	Tissue Biology	Mouse	0.968	18	542	Stomach	Female	WT	Normal	GSM5588205
+204875570051_R03C01	S2	Tissue Biology	Mouse	0.973	31	952	Stomach	Male	WT	Normal	GSM5588206
+204875570071_R03C01	S1	Tissue Biology	Mouse	0.977	1	31	Stomach	Male	WT	Normal	GSM5588207
+204875570071_R04C01	S2	Tissue Biology	Mouse	0.974	1	31	Stomach	Male	WT	Normal	GSM5588208
+204879580005_R06C02	Mouse1_Embryo2_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.972	0	-8	Tail	Male	WT	Normal	GSM5588209
+204879580008_R01C02	Mouse3_Embryo1_E17.5	Tissue Biology	Mouse	0.949	0	-4	Tail	Female	LO/LO	Normal	GSM5588210
+204879580008_R04C01	Mouse2_Embryo1_E13.5_(Williams_Lab)	Tissue Biology	Mouse	0.975	0	-8	Tail	Male	WT	Normal	GSM5588211
+204879580009_R01C01	Mouse3_Embryo2_E17.5	Tissue Biology	Mouse	0.926	0	-4	Tail	Male	LO/LO	Normal	GSM5588212
+204879580009_R01C02	Mouse3_Embryo3_E17.5	Tissue Biology	Mouse	0.964	0	-4	Tail	Male	LO/LO	Normal	GSM5588213
+204879580020_R01C01	Mouse3_Embryo4_E17.5	Tissue Biology	Mouse	0.948	0	-4	Tail	Female	LO/LO	Normal	GSM5588214
+204879580020_R01C02	Mouse3_Embryo5_E17.5	Tissue Biology	Mouse	0.963	0	-4	Tail	Female	LO/LO	Normal	GSM5588215
+204879580020_R06C02	Mouse4_Embryo1_E18.5	Tissue Biology	Mouse	0.940	0	-3	Tail	Male	WT	Normal	GSM5588216
+204879580021_R06C01	Mouse4_Embryo2_E18.5	Tissue Biology	Mouse	0.951	0	-3	Tail	Male	WT	Normal	GSM5588217
+204879580022_R01C01	Mouse4_Embryo3_E18.5	Tissue Biology	Mouse	0.963	0	-3	Tail	Male	WT	Normal	GSM5588218
+204879580022_R04C02	Mouse4_Embryo4_E18.5	Tissue Biology	Mouse	0.955	0	-3	Tail	Female	WT	Normal	GSM5588219
+204879580043_R06C01	Mouse4_Embryo5_E18.5	Tissue Biology	Mouse	0.921	0	-3	Tail	Female	WT	Normal	GSM5588220
+204875570011_R02C01	NA	Tissue Biology	Mouse	0.975	16	497	Testis	Male	WT	Normal	GSM5588221
+204875570014_R02C01	NA	Tissue Biology	Mouse	0.976	1	31	Testis	Male	WT	Normal	GSM5588222
+204875570048_R02C02	NA	Tissue Biology	Mouse	0.973	1	31	Testis	Male	WT	Normal	GSM5588223
+204875570051_R01C02	NA	Tissue Biology	Mouse	0.969	31	952	Testis	Male	WT	Normal	GSM5588224
